@@ -1,92 +1,72 @@
-﻿blank,session,date,filename,unit,topic,title,pad-slug,image,zotero-tag,zotero-readings,objective,tags,contents
-,1,16.10,2023-10-16-1.md,,Introduction,1. Introduction,1,wool.jpg,1-Introduction,,"1. Get oriented to the way this course works.
-2. Explain why the story of each Abrahamic faith cannot be understood without the others.",[1],"---
+﻿blank,session,date,filename,unit,topic,long-topic,concepts,title,pad-slug,image,zotero-tag,zotero-readings,objective,Aufgabe,tags,contents
+,1,28.04,2025-04-28-1.md,Einleitung,Einführung & Zielsetzung,Ist das Christentum eine westliche Religion?,,1. Einführung & Zielsetzung: Ist das Christentum eine westliche Religion?,1,good-friday-aleppo.jpg,1-Einführung-Zielsetzung,,"1. Eigene Ziele im Kurs setzen.
+2. Westliche Vorstellungen des Christentums erstmal hinterfragen.",,[1],"---
 layout: post
 session: 1
 tags: [1]
 level: overview
 ---"
-,2,23.10,2023-10-23-2.md,,Monotheism,2. Monotheism,2,stars.jpg,2-Monotheism,"[beckingBoundariesIsraeliteMonotheism2008a, langMonotheismus1998a]","Describe how Abraham became a father of faith to Judaism, Christianity, and Islam.",[2],"---
+,2,05.05,2025-05-05-2.md,Frühchristliche Gemeinschaften,Heilige Schriften und die apostolische Tradition,Wie wird die christliche Botschaft idealerweise vermittelt?,"Heilige Schriften, Schriftlichkeit/Mündlichkeit, sakrale Objekte",2. Heilige Schriften und die apostolische Tradition: Wie wird die christliche Botschaft idealerweise vermittelt?,2,ihlara-valley-cappadocia.jpg,2-Heilige-Schriften-und-die-apostolische-Tradition,deutschebibelgesellschaftApostelgeschichte12Lutherbibel,"Die Rolle der schriftlichen und mündlichen ""apostolischen"" Traditionen im frühchristlichen Selbstverständnis skizzieren können. ","In der Primärquelle: Eine Person in jeder von 3 Etappen (1. Apostel, 2. Nachfolger der Apostel, 3. Neue) identifizieren. ",[2],"---
 layout: post
 session: 2
 tags: [2]
 level: overview
 ---"
-,3,30.10,2023-10-30-3.md,,Scripture & Prophets,3. Scripture & Prophets,3,isaiah.jpg,3-Scripture-Prophets,,,[3],"---
+,3,12.05,2025-05-12-3.md,Frühchristliche Gemeinschaften,"Abendmahl, Pessach und Ostern",Was wird mit wem gefeiert?,"Festen, Rituale, Parting of the Ways","3. Abendmahl, Pessach und Ostern: Was wird mit wem gefeiert?",3,seder.jpg,"3-Abendmahl,-Pessach-und-Ostern",Aphrahat,Hybridität und Selbstpositionierung zwischen jüdischen Gemeinden und Jesu Nachfolger anhand von Ritualen illustrieren können.,Das des nächsten Ostern nach Aphrahats Vorgaben rechnen. ,[3],"---
 layout: post
 session: 3
 tags: [3]
 level: overview
 ---"
-,4,06.11,2023-11-06-4.md,,Messiah & Covenant,4. Messiah & Covenant,4,palm.jpg,4-Messiah-Covenant,,,[4],"---
+,4,19.05,2025-05-19-4.md,Frühchristliche Gemeinschaften,Orthodoxie und Häresie,"Warum ist es wichtig, richtig zu glauben?","Normativität, soziale Strukturen","4. Orthodoxie und Häresie: Warum ist es wichtig, richtig zu glauben?",4,,4-Orthodoxie-und-Häresie,Bauer vs. Stark; Ephrem,Sowohl die innere Logik der orthodoxischen Erzählung als auch historisch-kritische Bemerkungen daran erklären können.,"Debattieren: Ob die politische Macht entscheidend war in der Durchsetzung der ""Orthodoxie"".",[4],"---
 layout: post
 session: 4
 tags: [4]
 level: overview
 ---"
-,5,13.11,2023-11-13-5.md,,Parting of the Ways,5. Parting of the Ways,5,stone.jpg,5-Parting-of-the-Ways,,,[5],"---
+,5,26.05,2025-05-26-5.md,Frühchristliche Gemeinschaften,"Askese, Martyrium, Wunder und Wallfahrt",Wer und was ist heilig?,"Gender, Heilige Orte, sakrale Objekte","5. Askese, Martyrium, Wunder und Wallfahrt: Wer und was ist heilig?",5,aksehir-red-church-cappadocia.jpg,"5-Askese,-Martyrium,-Wunder-und-Wallfahrt",Peter Brown (Interview?),Den Heiligkeitsbegriff mit Beispielen erklären können.,Heiligkeitsfaktoren sammeln,[5],"---
 layout: post
 session: 5
 tags: [5]
 level: overview
 ---"
-,6,20.11,2023-11-20-6.md,,Martyrs,6. Martyrs,6,fire.jpg,6-Martyrs,,,[6],"---
+,6,02.06,2025-06-02-6.md,Exkursion,Exkursion,Wie sieht eine Kirche aus?,,6. Exkursion: Wie sieht eine Kirche aus?,6,,6-Exkursion,something about liturgy?,"Erfahren, wie in einer nicht-westlichen Tradition einen Gottesdienst gefeiert wird.",,[6],"---
 layout: post
 session: 6
 tags: [6]
 level: overview
 ---"
-,7,27.11,2023-11-27-7.md,,East & West,7. East & West,7,pebble-beach.jpg,7-East-West,,,[7],"---
+,,09.06,2025-06-09-pfingstmontag.md,,Pfingstmontag (Feiertag),,,. Pfingstmontag (Feiertag): ,,,,,,,,
+,7,16.06,2025-06-16-7.md,Die Entfaltung der Gemeinden,Begegnungen mit dem Islam,Wie verstanden sich Christen und Muslime?,,7. Begegnungen mit dem Islam: Wie verstanden sich Christen und Muslime?,7,st-paul-harissa.jpg,7-Begegnungen-mit-dem-Islam,griffith,"Einige Bereiche nennen können, in denen der langjährige Austausch zwischen islamischen und ostkirchlichen Gemeinschaften besonders bedeutsam war.","So viele wie möglich ""ersten"" unter christlich-arabischen Autoren auflisten: z.B. erster Text, erste Bibelübersetzung, erster Autor den wir namentlich kennen.",[7],"---
 layout: post
 session: 7
 tags: [7]
 level: overview
 ---"
-,8,04.12,2023-12-04-8.md,,Rabbis,8. Rabbis,8,tallit.jpg,8-Rabbis,,,[8],"---
+,8,23.06,2025-06-23-8.md,Die Entfaltung der Gemeinden,Kirche des Ostens (ostsyrisch/assyrianisch),Wie entwickelte sich die Kirche außerhalb des Römischen Reiches? (I),,8. Kirche des Ostens (ostsyrisch/assyrianisch): Wie entwickelte sich die Kirche außerhalb des Römischen Reiches? (I),8,,8-Kirche-des-Ostens-(ostsyrisch/assyrianisch),Baum-Winkler,Die größten Gemeinsamkeiten und Unterschiede zwischen der Kirche des Ostens und den griechischen oder römischen Kirchen identifizieren.,"Orten auf einer Landkarte identifizieren, die mit der Kirche des Ostens verbunden sind.",[8],"---
 layout: post
 session: 8
 tags: [8]
 level: overview
 ---"
-,9,11.12,2023-12-11-9.md,,A New Prophet,9. A New Prophet,9,crescent-moon.jpg,9-A-New-Prophet,,,[9],"---
+,9,30.06,2025-06-30-9.md,Die Entfaltung der Gemeinden,Kopten und Syrisch-Orthodoxen,Wie entfalteten sich die einheimischen Kirchen innerhalb des Römischen Reiches? ,,9. Kopten und Syrisch-Orthodoxen: Wie entfalteten sich die einheimischen Kirchen innerhalb des Römischen Reiches? ,9,,9-Kopten-und-Syrisch-Orthodoxen,Volker Menze or Vince Bantu interview/Bantu book,Einige Aspekte der Identitätserzählung der koptischen und syrisch-orthodoxischen Gemeinden zusammenfassen können.,Gemeinsamkeiten und Unterschiede zwischen Kopten und Syrisch-Orthodoxen auflisten.,[9],"---
 layout: post
 session: 9
 tags: [9]
 level: overview
 ---"
-,10,18.12,2023-12-18-10.md,,A New Community,10. A New Community,10,dome-of-the-rock.jpg,10-A-New-Community,,,[10],"---
+,,07.07,2025-06-09-sommerfest.md,,Sommerfest anstatt Grundkurs,,,. Sommerfest anstatt Grundkurs: ,,,,,,,,
+,10,14.07,2025-07-14-10.md,Die Entfaltung der Gemeinden,Armenier und Äthiopier,Wie entwickelte sich die Kirche außerhalb des Römischen Reiches? (II),,10. Armenier und Äthiopier: Wie entwickelte sich die Kirche außerhalb des Römischen Reiches? (II),10,armenian-bell.jpg,10-Armenier-und-Äthiopier,GCT?,Eckpunkte der armenischen und äthiopischen Selbstnarrativen erzählen können.,Wichtige Ereignisse auf eine Zeitleiste platzieren.,[10],"---
 layout: post
 session: 10
 tags: [10]
 level: overview
 ---"
-,11,08.01,2024-01-08-11.md,,Rules & Rulers,11. Rules & Rulers,11,palace-ceiling.jpg,11-Rules-Rulers,,,[11],"---
+,11,21.07,2025-07-21-11.md,Schlusswort,Rückblick,Was haben wir gelernt?,,11. Rückblick: Was haben wir gelernt?,11,,11-Rückblick,,Über die Kursinhalte reflektieren und das eingeworbene Wissen für sich versichern. ,Notizen und Fragen (mit Blick auf die Lernziele) sammeln.,[11],"---
 layout: post
 session: 11
 tags: [11]
 level: overview
 ---"
-,12,15.01,2024-01-15-12.md,,Tradition,12. Tradition,12,leaf.jpg,12-Tradition,,,[12],"---
-layout: post
-session: 12
-tags: [12]
-level: overview
----"
-,13,22.01,2024-01-22-13.md,,A Common Language,13. A Common Language,13,ox-bodl-laud-or-258-fol-10b.jpg,13-A-Common-Language,,,[13],"---
-layout: post
-session: 13
-tags: [13]
-level: overview
----"
-,14,29.01,2024-01-29-14.md,,Converted Conquerors,14. Converted Conquerors,14,horse.jpg,14-Converted-Conquerors,,,[14],"---
-layout: post
-session: 14
-tags: [14]
-level: overview
----"
-,15,05.02,2024-02-05-15.md,,Perceptions,15. Perceptions,15,carpet_ed.jpg,15-Perceptions,,,[15],"---
-layout: post
-session: 15
-tags: [15]
-level: overview
----"
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
