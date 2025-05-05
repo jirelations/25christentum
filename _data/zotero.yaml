@@ -44,6 +44,26 @@ references:
   type: chapter
   URL: https://ubffm.hds.hebis.de/Record/HEB195423070
 
+- id: suarsanaGlobalesChristentum2024
+  author:
+    - family: Suarsana
+      given: Yan
+  citation-key: suarsanaGlobalesChristentum2024
+  collection-title: Studienkurs Religion
+  DOI: 10.5771/9783748911920
+  edition: 1. Auflage
+  event-place: Baden-Baden
+  ISBN: 978-3-7489-1192-0
+  issued:
+    - year: 2024
+  language: ger
+  number-of-pages: '1'
+  publisher: Nomos Verlagsgesellschaft mbH & Co. KG
+  publisher-place: Baden-Baden
+  source: K10plus ISBN
+  title: Globales Christentum
+  type: book
+
 - id: Tags
   citation-key: Tags
   title: Tags
