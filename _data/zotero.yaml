@@ -1,5 +1,28 @@
 ---
 references:
+- id: aphrahat12UeberPascha1991
+  author:
+    - literal: Aphrahat
+  citation-key: aphrahat12UeberPascha1991
+  collection-title: Unterweisungen
+  container-title: Unterweisungen
+  editor:
+    - family: Bruns
+      given: Peter
+  event-place: Freiburg
+  ISBN: 978-3-451-22106-4
+  issued:
+    - year: 1991
+  language: de
+  page: 297-313
+  publisher: Herder
+  publisher-place: Freiburg
+  title: 12. Über das Pascha
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/23903600653/CourseNode/93668888136198/03+-+Aphrahat+-+1991+-+12.+Ueber+das+Pascha.pdf
+  volume: '2'
+
 - id: deutschebibelgesellschaftApostelgeschichte12Lutherbibel2017
   accessed:
     - year: 2025
@@ -14,6 +37,27 @@ references:
     - literal: Deutsche Bibelgesellschaft
   type: webpage
   URL: https://www.die-bibel.de/bibel/LU17/ACT.1
+
+- id: hoffmanPassoverEasterOrigin1999
+  author:
+    - family: Hoffman
+      given: Lawrence A.
+    - family: Bradshaw
+      given: Paul F.
+  citation-key: hoffmanPassoverEasterOrigin1999
+  event-place: Baltimore, Md.
+  ISBN: 978-0-268-15914-6
+  issued:
+    - year: 1999
+  number-of-pages: 1 Online-Ressource (262 pages)
+  publisher: University of Notre Dame Press
+  publisher-place: Baltimore, Md.
+  source: COinS
+  title: 'Passover and Easter: Origin and History to Modern Times'
+  title-short: Passover and Easter
+  type: book
+  URL: >-
+    https://muse-jhu-edu.proxy.ub.uni-frankfurt.de/pub/200/edited_volume/book/48420/pdf
 
 - id: illertDoctrinaAddai2007
   abstract: >-
@@ -43,6 +87,28 @@ references:
   title: Doctrina Addai [DE]
   type: chapter
   URL: https://ubffm.hds.hebis.de/Record/HEB195423070
+
+- id: rosikChurchSynagogue303132019
+  accessed:
+    - year: 2025
+      month: 5
+      day: 5
+  author:
+    - family: Rosik
+      given: Mariusz
+  citation-key: rosikChurchSynagogue303132019
+  DOI: 10.3726/b14955
+  ISBN: 978-3-631-77543-1 978-3-631-77542-4 978-3-631-77544-8 978-3-631-76005-5
+  issued:
+    - year: 2019
+      month: 1
+      day: 24
+  language: en
+  publisher: Peter Lang D
+  source: DOI.org (Crossref)
+  title: 'Church and synagogue (30-313 AD): Parting of the ways'
+  type: book
+  URL: https://www.peterlang.com/view/title/66653
 
 - id: suarsanaGlobalesChristentum2024
   author:
@@ -92,4 +158,29 @@ references:
   type: chapter
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/23903600653/CourseNode/93668888136198/02+-+Walters+-+2021+-+The+Doctrina+Addai+%5BEN%5D.pdf
+
+- id: yuvalEasterPassoverEarly1999
+  author:
+    - family: Yuval
+      given: lsrael J.
+  citation-key: yuvalEasterPassoverEarly1999
+  container-title: 'Passover and Easter: Origin and History to Modern Times'
+  editor:
+    - family: Hoffman
+      given: Lawrence A.
+    - family: Bradshaw
+      given: Paul F.
+  event-place: Baltimore, Md.
+  ISBN: 978-0-268-15914-6
+  issued:
+    - year: 1999
+  language: en
+  page: 98-124
+  publisher: University of Notre Dame Press
+  publisher-place: Baltimore, Md.
+  source: COinS
+  title: Easter and Passover As Early Jewish-Christian Dialogue
+  type: chapter
+  URL: >-
+    https://muse-jhu-edu.proxy.ub.uni-frankfurt.de/pub/200/edited_volume/chapter/1883493
 ...
