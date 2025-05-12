@@ -1,5 +1,16 @@
 ---
 references:
+- id: AbdAlMasihAlIsraili
+  accessed:
+    - year: 2025
+      month: 5
+      day: 6
+  citation-key: AbdAlMasihAlIsraili
+  language: en
+  title: Abd al-Masih al-Isra'ili al-Raqqi
+  type: webpage
+  URL: https://ccdl.claremont.edu/digital/collection/cce/id/16
+
 - id: aphrahat12UeberPascha1991
   author:
     - literal: Aphrahat
