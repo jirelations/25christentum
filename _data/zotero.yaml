@@ -34,6 +34,78 @@ references:
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/23903600653/CourseNode/93668888136198/03+-+Aphrahat+-+1991+-+12.+Ueber+das+Pascha.pdf
   volume: '2'
 
+- id: bauerEinleitungKapitelEdessa1964
+  accessed:
+    - year: 2025
+      month: 5
+      day: 12
+  author:
+    - family: Bauer
+      given: Walter
+  citation-key: bauerEinleitungKapitelEdessa1964
+  container-title: Rechtgläubigkeit und Ketzerei im ältesten Christentum
+  edition: '2'
+  event-place: Tübingen
+  issued:
+    - year: 1964
+  language: ger
+  page: 1-5, 9-10, 16-19
+  publisher: Mohr
+  publisher-place: Tübingen
+  source: Internet Archive
+  title: 'Einleitung, Kapitel I: Edessa [Auszüge]'
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/23903600653/CourseNode/93668888136198/04+-+Bauer+-+1964+-+Einleitung%2C+Kapitel+I+Edessa+%5BAusz%C3%BCge%5D.pdf
+
+- id: bauerRechtglaeubigkeitUndKetzerei1964
+  abstract: ix, 314 pages ; 24 cm; Includes bibliographical references
+  accessed:
+    - year: 2025
+      month: 5
+      day: 12
+  author:
+    - family: Bauer
+      given: Walter
+  citation-key: bauerRechtglaeubigkeitUndKetzerei1964
+  edition: '2'
+  event-place: Tübingen
+  issued:
+    - year: 1964
+  language: ger
+  number-of-pages: '332'
+  publisher: Mohr
+  publisher-place: Tübingen
+  source: Internet Archive
+  title: Rechtgläubigkeit und Ketzerei im ältesten Christentum
+  type: book
+  URL: http://archive.org/details/rechtglubigkeitu0000baue
+
+- id: bukovecChristlicherOrientIm2014
+  call-number: DS61.7.A1 T34 2010
+  citation-key: bukovecChristlicherOrientIm2014
+  collection-number: Band 2-3
+  collection-title: Schriftenreihe Religionen im Vorderen Orient
+  editor:
+    - family: Bukovec
+      given: Predrag
+    - literal: Jorunn Jacobsen Buckley Collection (Library of Congress)
+  event-place: Hamburg
+  ISBN: 978-3-8300-7812-8 978-3-8300-7813-5
+  issued:
+    - year: 2014
+  language: ger eng fre ita
+  note: 'OCLC: ocn907133936'
+  number-of-pages: '2'
+  publisher: Verlag Dr. Kovač
+  publisher-place: Hamburg
+  source: Library of Congress ISBN
+  title: >-
+    Christlicher Orient im Porträt: Wissenschaftsgeschichte des christlichen
+    Orients: Kongressakten der 1. Tagung der RVO (4. Dezember 2010, Tübingen)
+  title-short: Christlicher Orient im Porträt
+  type: book
+
 - id: deutschebibelgesellschaftApostelgeschichte12Lutherbibel2017
   accessed:
     - year: 2025
@@ -48,6 +120,54 @@ references:
     - literal: Deutsche Bibelgesellschaft
   type: webpage
   URL: https://www.die-bibel.de/bibel/LU17/ACT.1
+
+- id: durkin-meisterernstEznikManichaeism2012
+  abstract: >-
+    Abstract Eznik of Kołb's famous script without a title, which modern editors
+    have called Ełc ałandoc' "Against the Sects" or "De Deo", is rightly valued
+    as a source on Zoroastrianism/Zurvanism. It's importance as a source of
+    information on Manichaeism has been less appreciated. What does Eznik
+    actually tell us about Manichaeism? In the following some relevant topics
+    are presented.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 12
+  author:
+    - family: Durkin-Meisterernst
+      given: Desmond
+  citation-key: durkin-meisterernstEznikManichaeism2012
+  container-title: Iran and the Caucasus
+  DOI: 10.1163/160984912X13309560273975
+  ISSN: 1573-384X, 1609-8498
+  issue: '1'
+  issued:
+    - year: 2012
+      month: 1
+      day: 1
+  language: en
+  page: 1-11
+  publisher: Brill
+  source: brill.com
+  title: Eznik on Manichaeism
+  type: article-journal
+  URL: https://brill.com/view/journals/ic/16/1/article-p1_1.xml
+  volume: '16'
+
+- id: EncyclopaediaIranica
+  abstract: >-
+    The Encyclopaedia Iranica is a comprehensive research tool dedicated to the
+    study of Iranian civilization in the Middle East, the Caucasus, Central
+    Asia, and the Indian subcontinent
+  accessed:
+    - year: 2025
+      month: 5
+      day: 12
+  citation-key: EncyclopaediaIranica
+  language: en-US
+  title: Encyclopædia Iranica
+  type: book
+  URL: https://www.iranicaonline.org/
 
 - id: hoffmanPassoverEasterOrigin1999
   author:
@@ -99,6 +219,119 @@ references:
   type: chapter
   URL: https://ubffm.hds.hebis.de/Record/HEB195423070
 
+- id: mayMarcionUndSeine2013
+  abstract: >-
+    Der Band versammelt neue Forschungsbeiträge zu Marcion, dem bedeutendsten
+    Ketzer der christlichen Antike, und setzt sich dabei insbesondere mit Adolf
+    von Harnacks epochaler Marcioninterpretation auseinander. Harnacks Bild von
+    Marcion als eines biblizistischen Theologen und treuen Paulusschülers, der
+    den theologischen Entwicklungen des 2. Jahrhunderts fremd gegenübersteht,
+    hat sich als historisch fragwürdige Modernisierung erwiesen. Die einzelnen
+    Beiträge des Bandes ordnen Marcion und die marcionitische Kirche wieder in
+    ihren historischen Kontext ein. Erstmals werden auch die
+    theologiegeschichtlichen Hintergründe der Marciondeutung Harnacks und ihre
+    Rezeption im 20. Jahrhundert gründlicher beleuchtet.
+  author:
+    - family: May
+      given: Gerhard
+    - family: Greschat
+      given: Katharina
+  citation-key: mayMarcionUndSeine2013
+  ISBN: 978-3-11-090559-5
+  issued:
+    - year: 2013
+      month: 3
+      day: 1
+  language: de
+  number-of-pages: '348'
+  publisher: Walter de Gruyter
+  source: Google Books
+  title: >-
+    Marcion und seine kirchengeschichtliche Wirkung / Marcion and His Impact on
+    Church History: Vorträge der Internationalen Fachkonferenz zu Marcion,
+    gehalten vom 15. - 18. August 2001 in Mainz
+  title-short: >-
+    Marcion und seine kirchengeschichtliche Wirkung / Marcion and His Impact on
+    Church History
+  type: book
+
+- id: mills26WalterBauer
+  accessed:
+    - year: 2025
+      month: 5
+      day: 12
+  citation-key: mills26WalterBauer
+  collection-title: New Testament Review
+  dimensions: '59'
+  director:
+    - family: Mills
+      given: Ian
+    - family: Shepherd
+      given: Ben
+  language: en
+  number: '26'
+  title: 26. Walter Bauer, Orthodoxy and Heresy in Earliest Christianity
+  title-short: 26. Walter Bauer, Orthodoxy and Heresy in Earliest Christianity
+  type: broadcast
+  URL: https://podbay.fm/p/new-testament-review/e/1575299600
+
+- id: nyssenHandbuchOstkirchenkunde1984
+  author:
+    - family: Nyssen
+      given: Wilhelm
+    - family: Schulz
+      given: Hans-Joachim
+    - family: Wiertz
+      given: Paul
+  call-number: '2'
+  citation-key: nyssenHandbuchOstkirchenkunde1984
+  edition: Neu erarbeitete Ausg
+  event-place: Düsseldorf
+  ISBN: 978-3-491-77476-6 978-3-491-77477-3 978-3-491-77776-7
+  issued:
+    - year: 1984
+  language: ger
+  number-of-pages: XXXIV, 392 S.
+  publisher: Patmos Verlag
+  publisher-place: Düsseldorf
+  source: BnF ISBN
+  title: Handbuch der Ostkirchenkunde
+  type: book
+
+- id: ormaneanDictionaryArmenianChurch1984
+  abstract: >-
+    "The Armenian language is rich with ecclesiastical terminology. ...
+    Archbishop Malachia Ormanian perceived a need to make this vast knowledge
+    accessible to the faithful. Ormanian explains that he has purposely
+    refrained from writing a scholarly work but rather a concise and explicit
+    description of ecclesiastical terminology to which the faithful are often
+    exposed but do not necessarily comprehend. His language is in the
+    vernacular; his descriptions concise and enlightening. In 1905 Archbishop
+    Ormanian made his Ecclesiastical Dictionary available to the public, thus
+    completing this monumental task. ... No less monumental was the task of
+    translating Ormanian's work into English. Bedros Norehad has captured the
+    spirit of Archbishop Ormanian. His language, like that of the author, is
+    clear and his descriptions concise. ... The Mother Church has changed as a
+    result of the Genocide, the Diaspora and the society around us and the
+    translator has reflected the change without detracting from the intent of
+    the original. This is not an academic work nor was it intended to be, yet as
+    a reference for members of the Armenian Church and other interested
+    individuals it is a storehouse of ecclesiastical knowledge."--From foreword.
+  author:
+    - family: Ōrmanean
+      given: Maghakʻia
+  citation-key: ormaneanDictionaryArmenianChurch1984
+  ISBN: 978-0-934728-12-6
+  issued:
+    - year: 1984
+  language: en
+  number-of-pages: '160'
+  publisher: St. Vartan Press
+  source: Google Books
+  title: A Dictionary of the Armenian Church
+  type: book
+  URL: https://archive.org/details/churchofarmeniah0000rman
+
 - id: rosikChurchSynagogue303132019
   accessed:
     - year: 2025
@@ -120,6 +353,70 @@ references:
   title: 'Church and synagogue (30-313 AD): Parting of the ways'
   type: book
   URL: https://www.peterlang.com/view/title/66653
+
+- id: roweRoutledgeHandbookMinorities2018
+  abstract: >-
+    The Routledge Handbook of Minorities in the Middle East gathers a diverse
+    team of international scholars, each of whom provides unique expertise into
+    the status and prospects of minority populations in the region. The dramatic
+    events of the past decade, from the Arab Spring protests to the rise of the
+    Islamic state, have brought the status of these populations onto centre
+    stage. The overturn of various long-term autocratic governments in states
+    such as Tunisia, Egypt, Libya, and Yemen, and the ongoing threat to
+    government stability in Syria, Iraq, and Lebanon have all contributed to a
+    new assertion of majoritarian politics amid demands for democratization and
+    regime change. In the midst of the dramatic changes and latent armed
+    conflict, minority populations have been targeted, marginalized, and
+    victimized. Calls for social and political change have led many to
+    contemplate the ways in which citizenship and governance may be changed to
+    accommodate minorities – or indeed if such change is possible.  At a time
+    when the survival of minority populations and the utility of the label
+    minority has been challenged, this handbook answers the following set of
+    research questions.What are the unique challenges of minority populations in
+    the Middle East? How do minority populations integrate into their host
+    societies, both as a function of their own internal choices, and as a
+    response to majoritarian consensus on their status? Finally, given their
+    inherent challenges, and the vast, sweeping changes that have taken place in
+    the region over the past decade, what is the future of these minority
+    populations? What impact have minority populations had on their societies,
+    and to what extent will they remain prominent actors in their respective
+    settings?  This handbook presents leading-edge research on a wide variety of
+    religious, ethnic, and other minority populations. By reclaiming the notion
+    of minorities in Middle Eastern settings, we seek to highlight the agency of
+    minority communities in defining their past, present, and future.
+  author:
+    - family: Rowe
+      given: Paul S.
+  citation-key: roweRoutledgeHandbookMinorities2018
+  ISBN: 978-1-317-23379-4
+  issued:
+    - year: 2018
+      month: 9
+      day: 20
+  language: en
+  number-of-pages: '453'
+  publisher: Routledge
+  source: Google Books
+  title: Routledge Handbook of Minorities in the Middle East
+  type: book
+
+- id: studyofreligionatsmuGlobalRootsChristian2024
+  accessed:
+    - year: 2025
+      month: 5
+      day: 12
+  citation-key: studyofreligionatsmuGlobalRootsChristian2024
+  dimensions: '1:04:54'
+  director:
+    - literal: Study of Religion at SMU
+  issued:
+    - year: 2024
+      month: 3
+      day: 1
+  source: YouTube
+  title: '"The Global Roots of the Christian Faith" by Dr. Vince Bantu'
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=xOLiDMjL0ok
 
 - id: suarsanaGlobalesChristentum2024
   author:
