@@ -34,6 +34,64 @@ references:
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/23903600653/CourseNode/93668888136198/03+-+Aphrahat+-+1991+-+12.+Ueber+das+Pascha.pdf
   volume: '2'
 
+- id: aramArmenischeKircheEinfuehrung2022
+  accessed:
+    - year: 2025
+      month: 5
+      day: 19
+  citation-key: aramArmenischeKircheEinfuehrung2022
+  collection-title: Edition Cardo
+  contributor:
+    - literal: Aram
+  event-place: Trier
+  ISBN: 978-3-7902-1710-0
+  issued:
+    - year: 2022
+  language: ger
+  note: 'OCLC: 1369153559'
+  number-of-pages: '229'
+  publisher: Paulinus
+  publisher-place: Trier
+  source: Open WorldCat
+  title: 'Die Armenische Kirche: Eine Einführung in das armenische Christentum'
+  type: book
+  URL: https://d-nb.info/1275516408/04
+
+- id: arpeeHistoryArmenianChristianity1946
+  author:
+    - family: Arpee
+      given: Leon
+    - family: America
+      given: Armenian Missionary Association
+      dropping-particle: of
+  citation-key: arpeeHistoryArmenianChristianity1946
+  issued:
+    - year: 1946
+  language: en
+  number-of-pages: '408'
+  publisher: Armenian missionary association of America, Incorporated
+  source: Google Books
+  title: A History of Armenian Christianity from the Beginning to Our Own Time
+  type: book
+  URL: >-
+    https://www.google.de/books/edition/A_History_of_Armenian_Christianity_from/4YsKAQAAIAAJ
+
+- id: atiyaHistoryEasternChristianity1968
+  author:
+    - family: ʿAṭīya
+      given: ʿAzīz Sūryāl
+  citation-key: atiyaHistoryEasternChristianity1968
+  event-place: London
+  issued:
+    - year: 1968
+  number-of-pages: XIV, 486 S.
+  publisher: Methuen
+  publisher-place: London
+  source: COinS
+  title: A history of Eastern christianity
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB053667808
+
 - id: bauerEinleitungKapitelEdessa1964
   accessed:
     - year: 2025
@@ -169,6 +227,131 @@ references:
   type: book
   URL: https://www.iranicaonline.org/
 
+- id: fergusonEncyclopediaEarlyChristianity2013
+  author:
+    - family: Ferguson
+      given: Everett (Verfasser)
+    - family: McHugh
+      given: Michael P.
+    - family: Norris
+      given: Frederick W.
+  citation-key: fergusonEncyclopediaEarlyChristianity2013
+  edition: 2nd ed.
+  event-place: Ann Arbor, Michigan
+  ISBN: 978-1-136-61158-2
+  issued:
+    - year: 2013
+  number-of-pages: 1 Online-Ressource (1253 pages)
+  publisher: Taylor and Francis
+  publisher-place: Ann Arbor, Michigan
+  source: COinS
+  title: Encyclopedia of Early Christianity, Second Edition
+  type: book
+
+- id: gabraClaremontCopticEncyclopedia1991
+  accessed:
+    - year: 2025
+      month: 5
+      day: 19
+  citation-key: gabraClaremontCopticEncyclopedia1991
+  editor:
+    - family: Gabra
+      given: Gawdat
+    - family: Schneider
+      given: Tammi J.
+    - family: Takla
+      given: Hany N.
+    - family: Torjesen
+      given: Karen J.
+    - family: Torjesen
+      given: Gawdat Gabra
+      suffix: Tammi J. Schneider, Hany N. Takla, and Karen J.
+  issued:
+    - year: 1991
+    - year: 0
+  language: en
+  publisher: The Claremont Colleges Digital Library
+  title: Claremont Coptic Encyclopedia
+  type: book
+  URL: https://ccdl.claremont.edu/digital/collection/cce
+
+- id: garsoianLegliseArmenienneGrand1999
+  author:
+    - family: Garsoïan
+      given: Nina G.
+  citation-key: garsoianLegliseArmenienneGrand1999
+  event-place: Lovanii
+  ISBN: 978-90-429-0674-7
+  issued:
+    - year: 1999
+  number-of-pages: LXXI, 631 S.
+  publisher: Peeters
+  publisher-place: Lovanii
+  source: COinS
+  title: L'église arménienne et le grand schisme d'orient
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB081944993
+
+- id: garsoianStudiesFormationChristian2010
+  citation-key: garsoianStudiesFormationChristian2010
+  editor:
+    - family: Garsoïan
+      given: Nina G.
+  event-place: Farnham
+  ISBN: 978-1-4094-0366-1
+  issued:
+    - year: 2010
+  number-of-pages: 1 Band (verschiedene Seitenzählungen)
+  publisher: Ashgate
+  publisher-place: Farnham
+  source: COinS
+  title: Studies on the formation of Christian Armenia
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB228827728
+
+- id: georgetownuniversity-theologyCostanLecture20142015
+  accessed:
+    - year: 2025
+      month: 5
+      day: 19
+  citation-key: georgetownuniversity-theologyCostanLecture20142015
+  dimensions: '1:26:36'
+  director:
+    - literal: Georgetown University - Theology
+  issued:
+    - year: 2015
+      month: 3
+      day: 9
+  performer:
+    - family: Brown
+      given: Peter
+  source: YouTube
+  title: Costan Lecture 2014 - Peter Brown
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=6Hu0Ttv7Khc
+
+- id: hewsenArmeniaHistoricalAtlas2001
+  author:
+    - family: Hewsen
+      given: Robert H.
+  citation-key: hewsenArmeniaHistoricalAtlas2001
+  contributor:
+    - family: Salvatico
+      given: Christopher C.
+  event-place: Chicago, Ill.
+  ISBN: 978-0-226-33228-4
+  issued:
+    - year: 2001
+  language: en
+  number-of-pages: XVIII, 341 Seiten
+  publisher: Univ. of Chicago Press
+  publisher-place: Chicago, Ill.
+  source: COinS
+  title: 'Armenia: a historical atlas'
+  title-short: Armenia
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB099261979
+
 - id: hoffmanPassoverEasterOrigin1999
   author:
     - family: Hoffman
@@ -189,6 +372,20 @@ references:
   type: book
   URL: >-
     https://muse-jhu-edu.proxy.ub.uni-frankfurt.de/pub/200/edited_volume/book/48420/pdf
+
+- id: hovannisianArmenianPeopleAncient
+  citation-key: hovannisianArmenianPeopleAncient
+  editor:
+    - family: Hovannisian
+      given: Richard G.
+  event-place: New York, NY
+  language: en
+  publisher: St. Martin's Press
+  publisher-place: New York, NY
+  source: COinS
+  title: The Armenian people from ancient to modern times
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB128249137
 
 - id: illertDoctrinaAddai2007
   abstract: >-
@@ -218,6 +415,100 @@ references:
   title: Doctrina Addai [DE]
   type: chapter
   URL: https://ubffm.hds.hebis.de/Record/HEB195423070
+
+- id: k`eshisheanArmenianChurchIntroduction2017
+  author:
+    - family: Kʻēshishean
+      given: Aram
+  citation-key: k`eshisheanArmenianChurchIntroduction2017
+  edition: Second edition
+  event-place: Antelias, Lebanon
+  ISBN: 978-9953-0-3710-3
+  issued:
+    - year: 2017
+  language: eng
+  note: 'OCLC: 1035354448'
+  number-of-pages: '241'
+  publisher: Armenian Catholicosate of Cilicia
+  publisher-place: Antelias, Lebanon
+  source: Open WorldCat
+  title: 'The Armenian Church: an introduction to Armenian Christianity'
+  title-short: The Armenian Church
+  type: book
+
+- id: kirazGorgiasEncyclopedicDictionary2011
+  accessed:
+    - year: 2025
+      month: 5
+      day: 19
+  citation-key: kirazGorgiasEncyclopedicDictionary2011
+  contributor:
+    - family: Salesky
+      given: Winona
+    - family: Brown
+      given: Peter R. L.
+  editor:
+    - family: Kiraz
+      given: George Anton
+    - family: Brock
+      given: Sebastian P.
+    - family: Butts
+      given: Aaron M.
+    - family: Van Rompay
+      given: Lucas
+    - family: Michelson,
+      given: David A.
+    - family: Possekel
+      given: Ute
+    - family: Schwartz
+      given: Daniel L.
+  issued:
+    - year: 2011
+  language: en
+  publisher: Gorgias Press
+  title: 'Gorgias Encyclopedic Dictionary of the Syriac Heritage: Electronic Edition'
+  type: book
+  URL: https://gedsh.bethmardutho.org
+
+- id: langeAltorientalischenKirchenGlaube2011
+  author:
+    - family: Lange
+      given: Christian (Herausgeber)
+  citation-key: langeAltorientalischenKirchenGlaube2011
+  edition: 2., durchgesehene Auflage
+  event-place: Darmstadt
+  ISBN: 978-3-534-24722-6
+  issued:
+    - year: 2011
+  number-of-pages: XIV, 178 Seiten
+  publisher: WBG (Wissenschaftliche Buchgesellschaft)
+  publisher-place: Darmstadt
+  source: COinS
+  title: 'Die altorientalischen Kirchen : Glaube und Geschichte'
+  title-short: Die altorientalischen Kirchen
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB267024614
+
+- id: lumenchristiinstituteChristLoverMankind2020
+  accessed:
+    - year: 2025
+      month: 5
+      day: 19
+  citation-key: lumenchristiinstituteChristLoverMankind2020
+  dimensions: '1:13:31'
+  director:
+    - literal: Lumen Christi Institute
+  issued:
+    - year: 2020
+      month: 9
+      day: 18
+  source: YouTube
+  title: >-
+    Christ the Lover of Mankind: Philanthropia, Mystery, and Martyria in Eastern
+    Christianity
+  title-short: Christ the Lover of Mankind
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=nkY-BBjshJM
 
 - id: mayMarcionUndSeine2013
   abstract: >-
@@ -254,6 +545,43 @@ references:
     Marcion und seine kirchengeschichtliche Wirkung / Marcion and His Impact on
     Church History
   type: book
+
+- id: mcguckinEncyclopediaEasternOrthodox2010
+  abstract: >-
+    With a combination of essay-length and short entries written by a team of
+    leading religious experts, the two-volume Encyclopedia of Eastern Orthodoxy
+    offers the most comprehensive guide to the cultural and intellectual world
+    of Eastern Orthodox Christianity available in English today.  An outstanding
+    reference work providing the first English language multi-volume account of
+    the key historical, liturgical, doctrinal features of Eastern Orthodoxy,
+    including the Non-Chalcedonian churches Explores of the major traditions of
+    Eastern Orthodoxy in detail, including the Armenian, Byzantine, Coptic,
+    Ethiopic, Slavic, Romanian, Syriac churches Uniquely comprehensive, it is
+    edited by one of the leading scholars in the field and provides
+    authoritative but accessible articles by a range of top international
+    academics and Orthodox figures Spans the period from Late Antiquity to the
+    present, encompassing subjects including history, theology, liturgy,
+    monasticism, sacramentology, canon law, philosophy, folk culture,
+    architecture, archaeology, martyrology, hagiography, all alongside a large
+    and generously detailed prosopography Structured alphabetically and
+    topically cross-indexed, with entries ranging from 100 to 6,000 words
+  citation-key: mcguckinEncyclopediaEasternOrthodox2010
+  editor:
+    - family: McGuckin
+      given: John Anthony
+  ISBN: 978-1-4443-9254-8
+  issued:
+    - year: 2010
+      month: 12
+      day: 15
+  language: en
+  number-of-pages: '2234'
+  publisher: John Wiley & Sons
+  source: Google Books
+  title: The Encyclopedia of Eastern Orthodox Christianity
+  type: book
+  URL: >-
+    https://www.google.com/books/edition/The_Encyclopedia_of_Eastern_Orthodox_Chr/JmFetR5Wqd8C?hl=en&gbpv=0
 
 - id: mills26WalterBauer
   accessed:
@@ -297,6 +625,7 @@ references:
   source: BnF ISBN
   title: Handbuch der Ostkirchenkunde
   type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB012359475
 
 - id: ormaneanDictionaryArmenianChurch1984
   abstract: >-
@@ -331,6 +660,26 @@ references:
   title: A Dictionary of the Armenian Church
   type: book
   URL: https://archive.org/details/churchofarmeniah0000rman
+
+- id: paneChiesaArmenaStoria2011
+  author:
+    - family: Pane
+      given: Riccardo
+  citation-key: paneChiesaArmenaStoria2011
+  collection-title: Teologia / ESD
+  event-place: Bologna
+  ISBN: 978-88-7094-769-4
+  issued:
+    - year: 2011
+  language: ita
+  note: 'OCLC: 799573365'
+  number-of-pages: '147'
+  publisher: Edizioni Studio Domenicano
+  publisher-place: Bologna
+  source: Open WorldCat
+  title: 'La Chiesa Armena: storia, spiritualità e istituzioni'
+  title-short: La Chiesa Armena
+  type: book
 
 - id: rosikChurchSynagogue303132019
   accessed:
@@ -399,6 +748,49 @@ references:
   source: Google Books
   title: Routledge Handbook of Minorities in the Middle East
   type: book
+  URL: www.google.de/books?id=taxvDwAAQBAJ
+
+- id: st.nersessarmenianseminaryLecture1Uncertain2021
+  accessed:
+    - year: 2025
+      month: 5
+      day: 19
+  citation-key: st.nersessarmenianseminaryLecture1Uncertain2021
+  dimensions: '1:14:26'
+  director:
+    - literal: St. Nersess Armenian Seminary
+  issued:
+    - year: 2021
+      month: 2
+      day: 23
+  source: YouTube
+  title: >-
+    Lecture 1 of Uncertain States: The Armenian Church in the 8th to 11th
+    Centuries Series by Dr. Ervine
+  title-short: Lecture 1 of Uncertain States
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=4HG0353QhkQ
+
+- id: st.nersessarmenianseminaryNoOtherFoundation2020
+  accessed:
+    - year: 2025
+      month: 5
+      day: 19
+  citation-key: st.nersessarmenianseminaryNoOtherFoundation2020
+  dimensions: '1:03:22'
+  director:
+    - literal: St. Nersess Armenian Seminary
+  issued:
+    - year: 2020
+      month: 10
+      day: 9
+  source: YouTube
+  title: >-
+    No Other Foundation: The Armenian Church's Early Centuries Lecture 1 by Dr.
+    Roberta Ervine
+  title-short: No Other Foundation
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=FZPBessoaJk
 
 - id: studyofreligionatsmuGlobalRootsChristian2024
   accessed:
@@ -442,6 +834,62 @@ references:
   citation-key: Tags
   title: Tags
   type: document
+
+- id: thomsonBibliographyClassicalArmenian1995
+  author:
+    - family: Thomson
+      given: Robert W.
+  citation-key: thomsonBibliographyClassicalArmenian1995
+  event-place: Turnhout
+  ISBN: 978-2-503-50456-8
+  issued:
+    - year: 1995
+  language: en
+  number-of-pages: 324 Seiten
+  publisher: Brepols
+  publisher-place: Turnhout
+  source: COinS
+  title: A bibliography of classical Armenian literature to 1500 AD
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB046212582
+
+- id: thomsonr.w.SupplementBibliographyClassical2007
+  accessed:
+    - year: 2025
+      month: 5
+      day: 19
+  author:
+    - literal: Thomson, R.W.
+  citation-key: thomsonr.w.SupplementBibliographyClassical2007
+  container-title: Le Muséon
+  DOI: 10.2143/MUS.120.1.2020271
+  ISSN: 1783-158X, 1783-158X
+  issue: '1'
+  issued:
+    - year: 2007
+  page: 163–223
+  source: DOI.org (CSL JSON)
+  title: Supplement to A Bibliography of Classical Armenian Literature to 1500 AD
+  type: article-journal
+  URL: https://ubffm.hds.hebis.de/Record/HEB047291419/Holdings
+
+- id: urho-thewayHowLearnLives2021
+  accessed:
+    - year: 2025
+      month: 5
+      day: 19
+  citation-key: urho-thewayHowLearnLives2021
+  dimensions: '4:07'
+  director:
+    - literal: Urho - The Way
+  issued:
+    - year: 2021
+      month: 8
+      day: 31
+  source: YouTube
+  title: How To Learn from The Lives of The Saints | Dr. Jeanne-Nicole Saint-Laurent
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=dJeSvDJm2g8
 
 - id: waltersDoctrinaAddai2021
   author:
