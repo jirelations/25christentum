@@ -1112,7 +1112,8 @@ references:
   source: Google Books
   title: Der Islam und das Christentum
   type: chapter
-  URL: https://books.google.de/books?id=cwWSC6JnmMcC&lpg=PP1&hl=de&pg=PA20#v
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/23903600653/CourseNode/93668888136198/06+-+Tamcke+-+2008+-+Der+Islam+und+das+Christentum.pdf
 
 - id: thomsonBibliographyClassicalArmenian1995
   author:
