@@ -514,6 +514,36 @@ references:
   URL: >-
     https://www.google.de/books/edition/The_Rise_of_Normative_Christianity/kf7YAAAAMAAJ
 
+- id: hutterReligionenImKaukasus2025
+  abstract: >-
+    Die Kaukasus-Region zeichnet sich durch eine hohe Vielfalt sprachlicher,
+    ethnischer, kultureller und religiöser Traditionen aus - abhängig von der
+    Geographie und den soziohistorischen Kontexten. Der Sammelband erschließt
+    diese Vielfalt in ihren historisch pluralen Religionsformen sowie
+    lokalspezifischen Transformationsprozessen über die Jahrhunderte hinweg:
+    Lokale Religionspraktiken wurden bereits im Altertum durch Einflüsse aus dem
+    Alten Orient, dem Iran und aus Griechenland geprägt; auch die
+    christianisierten bzw. islamisierten Regionen des Kaukasus sowie jüdische
+    Gruppen zeigen ihre eigenständige Entwicklung. Dieser Pluralismus von
+    religiösen Traditionen charakterisiert auch die Religionspolitiken der
+    post-sowjetischen Staaten Armenien, Aserbeidschan und Georgien.
+  author:
+    - family: Hutter
+      given: Manfred
+  citation-key: hutterReligionenImKaukasus2025
+  ISBN: 978-3-17-042497-5
+  issued:
+    - year: 2025
+      month: 2
+      day: 5
+  language: de
+  number-of-pages: '302'
+  publisher: Kohlhammer Verlag
+  source: Google Books
+  title: Religionen im Kaukasus
+  type: book
+  URL: https://books.google.de/books?id=afZDEQAAQBAJ
+
 - id: illertDoctrinaAddai2007
   abstract: >-
     A collection of early Christian texts concerning the Abgar Letters, the
@@ -994,10 +1024,95 @@ references:
   title: Globales Christentum
   type: book
 
+- id: suermannChristentumAlbanienArmenien2025
+  author:
+    - family: Suermann
+      given: Harald
+  citation-key: suermannChristentumAlbanienArmenien2025
+  container-title: Religionen im Kaukasus
+  editor:
+    - family: Hutter
+      given: Manfred
+  ISBN: 978-3-17-042497-5
+  issued:
+    - year: 2025
+      month: 2
+      day: 5
+  language: de
+  page: 77-92
+  publisher: Kohlhammer Verlag
+  source: Google Books
+  title: 'Christentum in Albanien, Armenien und Georgien: Altertum und Mittelalter'
+  type: chapter
+  URL: https://books.google.de/books?id=afZDEQAAQBAJ
+
+- id: suermannEntstehungIslamUnd2017
+  author:
+    - family: Suermann
+      given: Harald
+  call-number: 02/NK 4155 B244
+  citation-key: suermannEntstehungIslamUnd2017
+  collection-number: '1'
+  collection-title: Schola nisibina
+  container-title: 'Neue aramäische Studien : Geschichte und Gegenwart'
+  editor:
+    - family: Weltecke
+      given: Dorothea
+    - family: Barczok
+      given: Ralph
+    - family: Giesen
+      given: Dominik
+    - family: Bilgic
+      given: Zeki
+  event-place: Frankfurt am Main
+  ISBN: 978-3-631-73131-4
+  issued:
+    - year: 2017
+  page: 47-82
+  publisher: Peter Lang
+  publisher-place: Frankfurt am Main
+  source: UBFFM BzG
+  title: Die Entstehung des Islam und seine Expansion aus Sicht der Aramäer
+  type: chapter
+
 - id: Tags
   citation-key: Tags
   title: Tags
   type: document
+
+- id: tamckeChristenIslamischenWelt2008
+  author:
+    - family: Tamcke
+      given: Martin
+  citation-key: tamckeChristenIslamischenWelt2008
+  ISBN: 978-3-406-56819-0
+  issued:
+    - year: 2008
+  language: de
+  number-of-pages: '212'
+  publisher: C.H.Beck
+  source: Google Books
+  title: 'Christen in der islamischen Welt: von Mohammed bis zur Gegenwart'
+  title-short: Christen in der islamischen Welt
+  type: book
+  URL: https://books.google.de/books?id=cwWSC6JnmMcC
+
+- id: tamckeIslamUndChristentum2008
+  author:
+    - family: Tamcke
+      given: Martin
+  citation-key: tamckeIslamUndChristentum2008
+  container-title: 'Christen in der islamischen Welt: von Mohammed bis zur Gegenwart'
+  ISBN: 978-3-406-56819-0
+  issued:
+    - year: 2008
+  language: de
+  page: 20-41
+  publisher: C.H.Beck
+  source: Google Books
+  title: Der Islam und das Christentum
+  type: chapter
+  URL: https://books.google.de/books?id=cwWSC6JnmMcC&lpg=PP1&hl=de&pg=PA20#v
 
 - id: thomsonBibliographyClassicalArmenian1995
   author:
@@ -1078,6 +1193,33 @@ references:
   type: chapter
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/23903600653/CourseNode/93668888136198/02+-+Walters+-+2021+-+The+Doctrina+Addai+%5BEN%5D.pdf
+
+- id: welteckeNeueAramaeischeStudien2017
+  author:
+    - family: Weltecke
+      given: Dorothea (Herausgeber)
+    - family: Barczok
+      given: Ralph (Herausgeber)
+    - family: Giesen
+      given: Dominik (Herausgeber)
+    - family: Bilgic
+      given: Zeki (Herausgeber)
+  call-number: 02/NK 4155 B244
+  citation-key: welteckeNeueAramaeischeStudien2017
+  collection-number: '1'
+  collection-title: Schola nisibina
+  event-place: Frankfurt am Main
+  ISBN: 978-3-631-73131-4
+  issued:
+    - year: 2017
+  language: de
+  number-of-pages: 360 Seiten
+  publisher: Peter Lang
+  publisher-place: Frankfurt am Main
+  source: UBFFM BzG
+  title: 'Neue aramäische Studien : Geschichte und Gegenwart'
+  title-short: Neue aramäische Studien
+  type: book
 
 - id: yuvalEasterPassoverEarly1999
   author:
