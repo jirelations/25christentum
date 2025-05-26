@@ -92,6 +92,31 @@ references:
   type: book
   URL: https://ubffm.hds.hebis.de/Record/HEB053667808
 
+- id: barnardOriginsEmergenceChurch1968
+  accessed:
+    - year: 2025
+      month: 5
+      day: 19
+  author:
+    - family: Barnard
+      given: L. W.
+  citation-key: barnardOriginsEmergenceChurch1968
+  container-title: Vigiliae Christianae
+  DOI: 10.2307/1581930
+  ISSN: 0042-6032
+  issue: '3'
+  issued:
+    - year: 1968
+  page: 161-175
+  publisher: Brill
+  source: JSTOR
+  title: >-
+    The Origins and Emergence of the Church in Edessa during the First Two
+    Centuries A.D.
+  type: article-journal
+  URL: https://www.jstor.org/stable/1581930
+  volume: '22'
+
 - id: bauerEinleitungKapitelEdessa1964
   accessed:
     - year: 2025
@@ -330,6 +355,84 @@ references:
   type: motion_picture
   URL: https://www.youtube.com/watch?v=6Hu0Ttv7Khc
 
+- id: grantSecretSayingsJesus1993
+  abstract: >-
+    206 pages ; 22 cm; "In The Secret Sayings of Jesus, Robert Grant and David
+    Noel Freedman offer a modern translation of the Gospel of Thomas, along with
+    a judicious and revealing commentary on each saying."--Inside jacket;
+    Includes bibliographical references (pages 199-201); The new discovery --
+    Gospels. The testimony of the Gospels ; The survival of oral tradition ; The
+    Apocryphal Gospels -- Gospel findings in the Papyri. The Gospel of Peter ;
+    The Oxyrhynchus Papyri ; An unknown Gospel ; Gnostic fragments -- The
+    Gnostics and Thomas -- The environment of Thomas -- The Gnostics and our
+    Gospels -- Thomas as author and theologian. The method of Thomas ; The
+    theology of Thomas -- The Gospel of Thomas : translation and commentary
+  accessed:
+    - year: 2025
+      month: 5
+      day: 19
+  author:
+    - family: Grant
+      given: Robert M. (Robert McQueen)
+  citation-key: grantSecretSayingsJesus1993
+  contributor:
+    - literal: Internet Archive
+  ISBN: 978-1-56619-274-3
+  issued:
+    - year: 1993
+  language: eng
+  number-of-pages: '218'
+  publisher: 'New York : Barnes & Noble Books'
+  source: Internet Archive
+  title: The secret sayings of Jesus
+  type: book
+  URL: http://archive.org/details/secretsayingsofj0000gran
+
+- id: hartogOrthodoxyHeresyEarly2015
+  abstract: >-
+    Eighty years ago, Walter Bauer promulgated a bold and provocative thesis
+    about early Christianity. He argued that many forms of Christianity started
+    the race, but one competitor pushed aside the others, until this powerful
+    "orthodox" version won the day. The victors re-wrote history, marginalizing
+    all other perspectives and silencing their voices, even though the
+    alternatives possessed equal right to the title of normative Christianity.
+    Bauer's influence still casts a long shadow on early Christian scholarship.
+    Were heretical movements the original forms of Christianity? Did the
+    heretics outnumber the orthodox? Did orthodox heresiologists accurately
+    portray their opponents? And more fundamentally, how can one make any
+    objective distinction between "heresy" and "orthodoxy"? Is such labeling
+    merely the product of socially situated power? Did numerous, valid forms of
+    Christianity exist without any validating norms of Christianity? This
+    collection of essays, each written by a relevant authority, tackles such
+    questions with scholarly acumen and careful attention to historical,
+    cultural-geographical, and socio-rhetorical detail. Although recognizing the
+    importance of Bauer's critical insights, innovative methodologies, and
+    fruitful suggestions, the contributors expose numerous claims of the Bauer
+    thesis (in both original and recent manifestations) that fall short of the
+    historical evidence. With contributions from: Rodney Decker Carl Smith
+    William Varner Rex Butler Bryan Litfin Brian Shelton David Alexander Edward
+    Smither Glen Thompson
+  author:
+    - family: Hartog
+      given: Paul A.
+  citation-key: hartogOrthodoxyHeresyEarly2015
+  ISBN: 978-1-63087-955-6
+  issued:
+    - year: 2015
+      month: 1
+      day: 30
+  language: en
+  number-of-pages: '281'
+  publisher: Wipf and Stock Publishers
+  source: Google Books
+  title: >-
+    Orthodoxy and Heresy in Early Christian Contexts: Reconsidering the Bauer
+    Thesis
+  title-short: Orthodoxy and Heresy in Early Christian Contexts
+  type: book
+  URL: >-
+    https://www.google.de/books/edition/Orthodoxy_and_Heresy_in_Early_Christian/dGf6CQAAQBAJ
+
 - id: hewsenArmeniaHistoricalAtlas2001
   author:
     - family: Hewsen
@@ -386,6 +489,30 @@ references:
   title: The Armenian people from ancient to modern times
   type: book
   URL: https://ubffm.hds.hebis.de/Record/HEB128249137
+
+- id: hultgrenRiseNormativeChristianity1994
+  abstract: >-
+    The influences wrought by the ancient documents discovered at Nag Hammadi
+    have given rise to the notion that various Gnostic interpretations are mere
+    alternatives to more traditional interpretations of Jesus and His
+    significance. Hultgren contends that such a tradition originated at the
+    beginnings of Christianity and came to dominate as the most adequate
+    expression of Jesus' legacy.
+  author:
+    - family: Hultgren
+      given: Arland J.
+  citation-key: hultgrenRiseNormativeChristianity1994
+  ISBN: 978-0-8006-2645-7
+  issued:
+    - year: 1994
+  language: en
+  number-of-pages: '232'
+  publisher: Fortress Press
+  source: Google Books
+  title: The Rise of Normative Christianity
+  type: book
+  URL: >-
+    https://www.google.de/books/edition/The_Rise_of_Normative_Christianity/kf7YAAAAMAAJ
 
 - id: illertDoctrinaAddai2007
   abstract: >-
@@ -680,6 +807,43 @@ references:
   title: 'La Chiesa Armena: storia, spiritualità e istituzioni'
   title-short: La Chiesa Armena
   type: book
+
+- id: robinsonBauerThesisExamined1988
+  author:
+    - family: Robinson
+      given: Thomas A. 1951-
+  citation-key: robinsonBauerThesisExamined1988
+  collection-title: Studies in the Bible and early Christianity
+  event-place: Lewiston, N.Y. [u.a.]
+  ISBN: 978-0-88946-611-1
+  issued:
+    - year: 1988
+  publisher: Mellen
+  publisher-place: Lewiston, N.Y. [u.a.]
+  source: COinS
+  title: >-
+    The Bauer thesis examined: the geography of heresy in the Early Christian
+    church
+  title-short: The Bauer thesis examined
+  type: book
+  URL: https://ixtheo.de/Record/018141315
+
+- id: robinsonOrthodoxyHeresyWestern1985
+  author:
+    - family: Robinson
+      given: Thomas Arthur
+  citation-key: robinsonOrthodoxyHeresyWestern1985
+  genre: Ph.D.
+  issued:
+    - year: 1985
+  language: en
+  publisher: McMaster University
+  source: Zotero
+  title: >-
+    Orthodoxy and Heresy in Western Asia Minor in the First Christian Century: A
+    Dialogical Response to Walter Bauer
+  type: thesis
+  URL: https://macsphere.mcmaster.ca/bitstream/11375/15679/1/Robinson%20Thomas.pdf
 
 - id: rosikChurchSynagogue303132019
   accessed:
