@@ -164,6 +164,70 @@ references:
   type: book
   URL: http://archive.org/details/rechtglubigkeitu0000baue
 
+- id: baumApostolischeKircheOstens2000
+  author:
+    - family: Baum
+      given: Wilhelm
+    - family: Winkler
+      given: Dietmar W.
+  citation-key: baumApostolischeKircheOstens2000
+  collection-title: Einführungen in das orientalische Christentum
+  event-place: Klagenfurt
+  ISBN: 978-3-902005-05-2
+  issued:
+    - year: 2000
+  language: de
+  publisher: Verl. Kitab
+  publisher-place: Klagenfurt
+  title: 'Die Apostolische Kirche des Ostens: Geschichte der sogenannten Nestorianer'
+  title-short: Die Apostolische Kirche des Ostens
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB184547695
+
+- id: baumChurchEastConcise2003
+  author:
+    - family: Baum
+      given: Wilhelm
+    - family: Winkler
+      given: Dietmar W.
+  citation-key: baumChurchEastConcise2003
+  edition: 1st ed.
+  event-place: Abingdon, Oxon
+  ISBN: 978-0-203-42309-7
+  issued:
+    - year: 2003
+  number-of-pages: 1 Online-Ressource (217 pages)
+  publisher: Taylor and Francis
+  publisher-place: Abingdon, Oxon
+  source: COinS
+  title: 'The Church of the East : A Concise History'
+  title-short: The Church of the East
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D172842
+
+- id: baumZeitalterAraber2000
+  author:
+    - family: Baum
+      given: Wilhelm
+    - family: Winkler
+      given: Dietmar W.
+  citation-key: baumZeitalterAraber2000
+  collection-title: Einführungen in das orientalische Christentum
+  container-title: 'Die Apostolische Kirche des Ostens: Geschichte der sogenannten Nestorianer'
+  event-place: Klagenfurt
+  ISBN: 978-3-902005-05-2
+  issued:
+    - year: 2000
+  language: de
+  page: 43-76
+  publisher: Verl. Kitab
+  publisher-place: Klagenfurt
+  title: Zeitalter der Araber
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/23903600653/CourseNode/93668888136198/07+-+Baum+and+Winkler+-+2000+-+Zeitalter+der+Araber.pdf
+
 - id: bukovecChristlicherOrientIm2014
   call-number: DS61.7.A1 T34 2010
   citation-key: bukovecChristlicherOrientIm2014
