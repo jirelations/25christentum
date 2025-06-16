@@ -92,6 +92,76 @@ references:
   type: book
   URL: https://ubffm.hds.hebis.de/Record/HEB053667808
 
+- id: bantuFirstChristiansAfrica2020
+  author:
+    - family: Bantu
+      given: Vince L.
+  citation-key: bantuFirstChristiansAfrica2020
+  container-title: 'A Multitude of All Peoples: Engaging Ancient Christianity''s Global Identity'
+  edition: Illustrated edition
+  event-place: Downers Grove, Ill.
+  ISBN: 978-0-8308-5107-2
+  issued:
+    - year: 2020
+      month: 3
+      day: 10
+  language: English
+  page: 72-95
+  publisher: IVP Academic
+  publisher-place: Downers Grove, Ill.
+  source: Amazon
+  title: The First Christians of Africa [Egypt and Nubia]
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/23903600653/CourseNode/93668888136198/08+-+Bantu+-+2020+-+The+First+Christians+of+Africa+%5BEgypt+and+Nubia%5D.pdf
+
+- id: bantuMultitudeAllPeoples2020
+  abstract: >-
+    Christianity Today Award of Merit Christianity is not becoming a global
+    religion. It has always been a global religion. The early Christian movement
+    spread from Jerusalem in every direction, taking on local cultural
+    expression all around the ancient world. So why do so many people see
+    Christianity as a primarily Western, white religion? In A Multitude of All
+    Peoples, Vince Bantu surveys the geographic range of the early church's
+    history, revealing an alternate, more accurate narrative to that of
+    Christianity as a product of the Western world. He begins by investigating
+    the historical roots of the Western cultural captivity of the church, from
+    the conversion of Constantine to the rise of European Christian empires. He
+    then shifts focus to the too-often-forgotten concurrent development of
+    diverse expressions of Christianity across Africa, the Middle East, and
+    Asia. In the process, Bantu removes obstacles to contemporary missiological
+    efforts. Focusing on the necessity for contextualization and indigenous
+    leadership in effective Christian mission, he draws out practical lessons
+    for intercultural communication of the gospel. Healing the wounds of racism,
+    imperialism, and colonialism will be possible only with renewed attention to
+    the marginalized voices of the historic global church. The full story of
+    early Christianity makes clear that, as the apostle Peter said, "God does
+    not show favoritism, but accepts those from every people who fear him and do
+    what is right." Missiological Engagements charts interdisciplinary and
+    innovative trajectories in the history, theology, and practice of Christian
+    mission, featuring contributions by leading thinkers from both the
+    Euro-American West and the majority world whose missiological scholarship
+    bridges church, academy, and society.
+  author:
+    - family: Bantu
+      given: Vince L.
+  citation-key: bantuMultitudeAllPeoples2020
+  edition: Illustrated edition
+  ISBN: 978-0-8308-5107-2
+  issued:
+    - year: 2020
+      month: 3
+      day: 10
+  language: English
+  number-of-pages: '237'
+  publisher: IVP Academic
+  source: Amazon
+  title: 'A Multitude of All Peoples: Engaging Ancient Christianity''s Global Identity'
+  title-short: A Multitude of All Peoples
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D6126860
+
 - id: barnardOriginsEmergenceChurch1968
   accessed:
     - year: 2025
@@ -206,6 +276,38 @@ references:
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D172842
 
+- id: baumerChurchEastIllustrated2006
+  abstract: >-
+    Christoph Baumer is one of the very few Westerners to have visited many of
+    the most important Assyrian sites, and has written the only comprehensive
+    history of the ""Nestorian"" (or Apostolic Assyrian) Church, which now
+    fights for survival in its country of origin, Iraq. He traces its apostolic
+    beginnings to the present day, and discusses the Church's theology,
+    christology and uniquely vigorous spirituality. He analyzes the Church's
+    turbulent relationship with other Christian chuches and its dialogue with
+    neighboring world religions such as Zoroastrianism, Manichaeism, Islam,
+    Buddhism and Taoism. Richly illustrated with maps and over 150 full-color
+    photographs, the book will be essential reading for those interested in a
+    fascinating but neglected Christian community which has profoundly shaped
+    the history of civilization in both East and West.
+  author:
+    - family: Baumer
+      given: Christoph
+  citation-key: baumerChurchEastIllustrated2006
+  ISBN: 978-1-84511-115-1
+  issued:
+    - year: 2006
+      month: 4
+      day: 28
+  language: en
+  number-of-pages: '344'
+  publisher: Bloomsbury Academic
+  source: Google Books
+  title: 'The Church of the East: An Illustrated History of Assyrian Christianity'
+  title-short: The Church of the East
+  type: book
+  URL: https://books.google.de/books?id=6eiWDwAAQBAJ&hl=de
+
 - id: baumZeitalterAraber2000
   author:
     - family: Baum
@@ -316,6 +418,26 @@ references:
   type: book
   URL: https://www.iranicaonline.org/
 
+- id: ephraemHeiligenEphraemSyrers1957
+  author:
+    - literal: Ephraem
+  citation-key: ephraemHeiligenEphraemSyrers1957
+  collection-title: Corpus scriptorum Christianorum Orientalium
+  editor:
+    - family: Beck
+      given: Edmund
+  event-place: Louvain
+  issued:
+    - year: 1957
+  language: ger
+  note: 'OCLC: 1138625'
+  number-of-pages: '2'
+  publisher: L. Durbecq
+  publisher-place: Louvain
+  source: Open WorldCat
+  title: Des heiligen Ephraem des Syrers Hymnen contra haereses
+  type: book
+
 - id: fergusonEncyclopediaEarlyChristianity2013
   author:
     - family: Ferguson
@@ -397,6 +519,71 @@ references:
   title: Studies on the formation of Christian Armenia
   type: book
   URL: https://ubffm.hds.hebis.de/Record/HEB228827728
+
+- id: gemeinhardtWasIstKirche2017
+  abstract: >-
+    Dem Glaubensbekenntnis von Nizäa-Konstantinopel (381) zufolge gibt eine
+    heilige, katholische und apostolische Kirche - und doch gibt es empirisch
+    zahlreiche Kirchen, damals wie heute. Zumal in der Spätantike ist Kirche ein
+    höchst vielgestaltiges Phänomen: Der geglaubten Einheit des Leibes Christi
+    steht die faktische pluralität von Kirchen gegenüber, zwischen denen nicht
+    nur in theologischen und kirchenpolitischen Fragen, sondern auch im Blick
+    auf Sozialgestalt und religiöse Praxis Konkurrenz herrscht. Diese Pluralität
+    von Kirche in der Spätantike fokussiert der vorliegende Band. Dabei werden
+    im interdisziplinären Gespräch zwischen Kirchengeschichte, Christlicher
+    Archäologie und Alter Geschichte methodische Ansätze erprobt und darüber
+    hinaus thematische Studien vorgelegt: So widmen sich einzelne Beiträge der
+    monastischen Kritik an der Institution Kirche, der Funktionsweise der
+    kirchlichen Bürokratie und der ekklesiologischen Reflexion in
+    unterschiedlichen Zeiträumen, Kontexten und Regionen. Auf diese Weise
+    entsteht ein facettenreiches Bild der reinen, allgemeinen und zugleich
+    pluralen christlichen Kirche in patristischer Zeit
+  citation-key: gemeinhardtWasIstKirche2017
+  collection-number: '14'
+  collection-title: Studien der Patristischen Arbeitsgemeinschaft (SPA)
+  editor:
+    - family: Gemeinhardt
+      given: Peter
+  event-place: Leuven
+  ISBN: 978-90-429-3401-6
+  issued:
+    - year: 2017
+  language: ger
+  publisher: Peeters
+  publisher-place: Leuven
+  source: BnF ISBN
+  title: >-
+    Was ist Kirche in der Spätantike? Publikation der Tagung der Patristischen
+    Arbeitsgemeinschaft in Duderstadt und Göttingen, 02.-05.01.2015
+  title-short: Was ist Kirche in der Spätantike?
+  type: book
+
+- id: gemeinhardtWasIstKirche2017a
+  author:
+    - family: Gemeinhardt
+      given: Peter
+  citation-key: gemeinhardtWasIstKirche2017a
+  collection-number: '14'
+  collection-title: Studien der Patristischen Arbeitsgemeinschaft (SPA)
+  container-title: >-
+    Was ist Kirche in der Spätantike? Publikation der Tagung der Patristischen
+    Arbeitsgemeinschaft in Duderstadt und Göttingen, 02.-05.01.2015
+  editor:
+    - family: Gemeinhardt
+      given: Peter
+  event-place: Leuven
+  ISBN: 978-90-429-3401-6
+  issued:
+    - year: 2017
+  language: ger
+  page: 1-34
+  publisher: Peeters
+  publisher-place: Leuven
+  source: BnF ISBN
+  title: >-
+    Was ist Kirche in der Spätantike? Einheit und Vielfalt – Anspruch und
+    Wirklichkeit
+  type: chapter
 
 - id: georgetownuniversity-theologyCostanLecture20142015
   accessed:
@@ -657,6 +844,60 @@ references:
   title-short: The Armenian Church
   type: book
 
+- id: kamilChristianityLandPharaohs2013
+  author:
+    - family: Kamil
+      given: Jill
+  citation-key: kamilChristianityLandPharaohs2013
+  edition: 1st ed.
+  event-place: Ann Arbor, Michigan
+  ISBN: 978-0-203-82694-2
+  issued:
+    - year: 2013
+  number-of-pages: 1 Online-Ressource (575 pages)
+  publisher: Taylor and Francis
+  publisher-place: Ann Arbor, Michigan
+  source: COinS
+  title: 'Christianity in the Land of the Pharaohs : The Coptic Orthodox Church'
+  title-short: Christianity in the Land of the Pharaohs
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D652874
+
+- id: kasserLanguagesCoptic1991
+  accessed:
+    - year: 2025
+      month: 5
+      day: 19
+  author:
+    - family: Kasser
+      given: Rodolphe
+  citation-key: kasserLanguagesCoptic1991
+  container-title: Claremont Coptic Encyclopedia
+  editor:
+    - family: Atiya
+      given: Aziz Suryal
+    - family: Gabra
+      given: Gawdat
+    - family: Schneider
+      given: Tammi J.
+    - family: Takla
+      given: Hany N.
+    - family: Torjesen
+      given: Karen J.
+    - family: Torjesen
+      given: Gawdat Gabra
+      suffix: Tammi J. Schneider, Hany N. Takla, and Karen J.
+  issued:
+    - year: 1991
+    - year: 0
+  language: en
+  page: 145-151
+  publisher: The Claremont Colleges Digital Library
+  title: Language(s), Coptic
+  type: chapter
+  URL: https://ccdl.claremont.edu/digital/collection/cce/id/2025/rec/24
+
 - id: kirazGorgiasEncyclopedicDictionary2011
   accessed:
     - year: 2025
@@ -804,6 +1045,26 @@ references:
   URL: >-
     https://www.google.com/books/edition/The_Encyclopedia_of_Eastern_Orthodox_Chr/JmFetR5Wqd8C?hl=en&gbpv=0
 
+- id: mertenAethiopischorthodoxeChristentumVersuch2012
+  author:
+    - family: Merten
+      given: Kai
+  citation-key: mertenAethiopischorthodoxeChristentumVersuch2012
+  collection-number: '44'
+  collection-title: Studien zur orientalischen Kirchengeschichte
+  event-place: Berlin Münster
+  ISBN: 978-3-643-11645-1
+  issued:
+    - year: 2012
+  language: ger
+  number-of-pages: '348'
+  publisher: Lit
+  publisher-place: Berlin Münster
+  source: K10plus ISBN
+  title: 'Das äthiopisch-orthodoxe Christentum: ein Versuch zu verstehen'
+  title-short: Das äthiopisch-orthodoxe Christentum
+  type: book
+
 - id: mills26WalterBauer
   accessed:
     - year: 2025
@@ -847,6 +1108,57 @@ references:
   title: Handbuch der Ostkirchenkunde
   type: book
   URL: https://ubffm.hds.hebis.de/Record/HEB012359475
+
+- id: omahonyEasternChristianityModern2010
+  author:
+    - family: O'Mahony
+      given: Anthony
+  citation-key: omahonyEasternChristianityModern2010
+  event-place: London
+  ISBN: 978-0-415-54803-8
+  issued:
+    - year: 2010
+  number-of-pages: XIII, 184 Seiten
+  publisher: Routledge
+  publisher-place: London
+  source: COinS
+  title: Eastern christianity in the modern Middle East
+  type: book
+
+- id: orlandiLiteratureCoptic1991
+  accessed:
+    - year: 2025
+      month: 5
+      day: 19
+  author:
+    - family: Orlandi
+      given: Tito
+  citation-key: orlandiLiteratureCoptic1991
+  container-title: Claremont Coptic Encyclopedia
+  editor:
+    - family: Atiya
+      given: Aziz Suryal
+    - family: Gabra
+      given: Gawdat
+    - family: Schneider
+      given: Tammi J.
+    - family: Takla
+      given: Hany N.
+    - family: Torjesen
+      given: Karen J.
+    - family: Torjesen
+      given: Gawdat Gabra
+      suffix: Tammi J. Schneider, Hany N. Takla, and Karen J.
+  issued:
+    - year: 1991
+    - year: 0
+  language: en
+  page: 1450b-1460a
+  publisher: The Claremont Colleges Digital Library
+  title: Literature, Coptic
+  type: chapter
+  URL: https://ccdl.claremont.edu/digital/collection/cce/id/1213/rec/14
+  volume: '5'
 
 - id: ormaneanDictionaryArmenianChurch1984
   abstract: >-
@@ -900,6 +1212,98 @@ references:
   source: Open WorldCat
   title: 'La Chiesa Armena: storia, spiritualità e istituzioni'
   title-short: La Chiesa Armena
+  type: book
+
+- id: plattChurchEastThree2017
+  abstract: >-
+    This dissertation seeks to examine changes in the identity of the Church of
+    the East over a span of several centuries particularly in relation to events
+    and experiences undergone by this church body in its own milieu. It aims to
+    do this through the analysis of key texts by or about prominent church
+    figures and secondary texts which establish the context for these men in
+    each of three separate time periods. The figures under investigation are Mar
+    Babai the Great at the turn of the 7th century during the last years of the
+    Sassanid Empire, Catholicos Timothy I in the height of Abbasid Culture at
+    the turn of the 9th Century, and Mar Yaballaha III during the Pax Mongolica
+    at the end of the 13th century. This dissertation asserts that these men
+    acted as representatives of their churchmen in their day, and that said
+    representation, judging by the esteem in which they were held, extended to
+    subsequent generations. Because of this, an analysis of their milieu and
+    their responses to it provided in their writings grants insight into their
+    corporate identity in their respective time periods, and what variations
+    exist can be described as identity shifts. In this way, this dissertation
+    establishes that the Church of the East in the Sassanid period was working
+    to establish an identity as the Church of the Persian Empire, in distinction
+    from that of the Romans, and furthermore, due to their lofty connections,
+    they were highly anticipating the acceptance of their faith by the
+    leadership of their empire. By the time of Timothy, a century and a half
+    later, due to the religious inclinations of their new political masters,
+    such aspirations were at least in part abandoned locally, but at the further
+    extents of the church’s reach, a greater degree of freedom was granted its
+    members. This freedom contributed to the state of the Church of the East in
+    the final period, where distant unexpected church members came home at the
+    head of an army to establish a kingdom, and Church of the East leadership
+    understandably interpreted this to mean that they might finally have a
+    Christian king. Such aspirations proved short lived. This dissertation shows
+    that there were a number of Church of the East identity points that shifted
+    over the centuries, but two stand out as prominent: 1. their relationship
+    with their political rulers including the role their ecclesiastical group
+    played in society, and 2. the role of missionary outreach in the life of
+    their church.
+  author:
+    - family: Platt
+      given: Andrew Thomas
+  citation-key: plattChurchEastThree2017
+  event-place: Washington, D.C.
+  genre: Ph.D.
+  issued:
+    - year: 2017
+  publisher: The Catholic University of America
+  publisher-place: Washington, D.C.
+  title: The Church of the East at Three Critical Points in its History
+  type: thesis
+  URL: http://hdl.handle.net/1961/cuislandora:64700
+
+- id: rebenichKircheSpaetantikeKoexistenz2017
+  author:
+    - family: Rebenich
+      given: Stefan
+  citation-key: rebenichKircheSpaetantikeKoexistenz2017
+  collection-number: '14'
+  collection-title: Studien der Patristischen Arbeitsgemeinschaft (SPA)
+  container-title: >-
+    Was ist Kirche in der Spätantike? Publikation der Tagung der Patristischen
+    Arbeitsgemeinschaft in Duderstadt und Göttingen, 02.-05.01.2015
+  editor:
+    - family: Gemeinhardt
+      given: Peter
+  event-place: Leuven
+  ISBN: 978-90-429-3401-6
+  issued:
+    - year: 2017
+  language: ger
+  page: 35-56
+  publisher: Peeters
+  publisher-place: Leuven
+  source: BnF ISBN
+  title: 'Kirche in der Spätantike: Koexistenz, Konkurrenz und Konflikt'
+  type: chapter
+
+- id: reininkSyriacChristianityLate2005
+  author:
+    - family: Reinink
+      given: G. J.
+  citation-key: reininkSyriacChristianityLate2005
+  event-place: Milton
+  ISBN: 978-0-86078-975-8 978-1-00-094535-5
+  issued:
+    - year: 2005
+  language: eng
+  number-of-pages: '1'
+  publisher: Taylor & Francis Group
+  publisher-place: Milton
+  source: K10plus ISBN
+  title: Syriac Christianity under Late Sasanian and Early Islamic Rule
   type: book
 
 - id: robinsonBauerThesisExamined1988
@@ -1007,6 +1411,23 @@ references:
   title: Routledge Handbook of Minorities in the Middle East
   type: book
   URL: www.google.de/books?id=taxvDwAAQBAJ
+
+- id: spidlikSpiritualityChristianEast1986
+  author:
+    - family: Špidlík
+      given: Tomáš
+  citation-key: spidlikSpiritualityChristianEast1986
+  event-place: Kalamazoo, Mich.
+  ISBN: 978-0-87907-879-9
+  issued:
+    - year: 1986
+  number-of-pages: XII, 473 S.
+  publisher: Cistercian Publ.
+  publisher-place: Kalamazoo, Mich.
+  source: COinS
+  title: 'The spirituality of the christian east : a systematic handbook'
+  title-short: The spirituality of the christian east
+  type: book
 
 - id: st.nersessarmenianseminaryLecture1Uncertain2021
   accessed:
@@ -1259,6 +1680,50 @@ references:
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/23903600653/CourseNode/93668888136198/02+-+Walters+-+2021+-+The+Doctrina+Addai+%5BEN%5D.pdf
 
+- id: waltersEasternChristianityReader2021
+  abstract: >-
+    Intro -- Title Page -- Copyright -- Dedication -- Contents -- List of
+    Illustrations -- List of Abbreviations -- Preface -- Introduction -- 1.
+    Syriac -- 1. The Doctrina Addai -- 2. Ephrem the Syrian, Hymns against
+    Heresies 3 and 53 -- 3. Martyrdom of Mīles, Abursam, and Sinay -- 4. Jacob
+    of Serugh, The Fourth Homily on Cain and Abel -- 5. Narsai, On the Canaanite
+    Woman -- 6. Simeon of Beth Arsham, Letter on the Ḥimyarite Martyrs -- 7. The
+    Syriac Life of Mary of Egypt -- 8. Timothy I, Letter 47 -- 9. Theodore bar
+    Koni, Scholion, Mēmrā 10 -- 2. Armenian -- 1. Koriwn, The Life of Mashtotsʿ
+    -- 2. Eznik of Koghb, Refutation of the Sects (or, On God) -- 3. The
+    Teaching of Saint Grigor -- 4. Anania of Narek, On This Transitory World --
+    5. Grigor of Narek, Book of Lamentation, Discourse 1, Discourse 88 -- 6.
+    Nersēs Shnorhali, Hymn for the Sunrise Hour, Instructional Preface to a
+    Prayer of Nersēs, Prayer of Nersēs -- 3. Georgian -- 1. Jacob Cʿurtaveli,
+    Martyrdom of Saint Shushanik -- 2. John Sabanisże, Martyrdom of Habo, the
+    Perfumer from Baghdad -- 3. George the Athonite, The Lives of John the
+    Iberian and Euthymios the Athonite, and George the Minor, The Life of George
+    the Athonite -- 4. Mark the Deacon, The Life of Porphyry of Gaza -- 4.
+    Arabic -- 1. Homilies on the Gospel Readings for Holy Week -- 2. Theodore
+    Abū Qurrah, That God Is Not Weak -- 3. The Disputation of Abraham of
+    Tiberias -- 4. Ḥunayn Ibn Isḥāq, How to Discern the True Religion -- 5.
+    Miracles of Saint George -- 6. Commentary on the Pentateuch -- 5. Coptic --
+    1. Life of Pachomius -- 2. Shenoute of Atripe, I Have Been Reading the Holy
+    Gospels -- 3. Pseudo-Dioscorus of Alexandria, Encomium on Macarius of Tkōou
+    -- 4. The Anaphora of Saint Thomas the Apostle -- 5. Christophoria, Letter
+    to the Comes Mena
+  citation-key: waltersEasternChristianityReader2021
+  editor:
+    - family: Walters
+      given: J. Edward
+  event-place: Chicago
+  ISBN: 978-0-8028-7686-7 978-1-4674-6269-3
+  issued:
+    - year: 2021
+  language: eng
+  number-of-pages: '1'
+  publisher: Wm. B. Eerdmans Publishing Co
+  publisher-place: Chicago
+  source: K10plus ISBN
+  title: 'Eastern Christianity: a reader'
+  title-short: Eastern Christianity
+  type: book
+
 - id: welteckeNeueAramaeischeStudien2017
   author:
     - family: Weltecke
@@ -1285,6 +1750,32 @@ references:
   title: 'Neue aramäische Studien : Geschichte und Gegenwart'
   title-short: Neue aramäische Studien
   type: book
+
+- id: wipszyckaAlexandrianChurchPeople2015
+  accessed:
+    - year: 2025
+      month: 6
+      day: 12
+  author:
+    - family: Wipszycka
+      given: Ewa
+  citation-key: wipszyckaAlexandrianChurchPeople2015
+  collection-title: Journal of juristic papyrology
+  edition: Wyd. 1
+  event-place: Warsaw
+  ISBN: 978-83-938425-4-4
+  issued:
+    - year: 2015
+  language: eng
+  note: 'OCLC: 911247175'
+  number-of-pages: '485'
+  publisher: Faculty of Law and Administration of University of Warsaw
+  publisher-place: Warsaw
+  source: Open WorldCat
+  title: 'The Alexandrian church: people and institutions'
+  title-short: The Alexandrian church
+  type: book
+  URL: http://swbplus.bsz-bw.de/bsz434044903inh.htm
 
 - id: yuvalEasterPassoverEarly1999
   author:
