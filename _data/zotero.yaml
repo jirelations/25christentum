@@ -438,6 +438,58 @@ references:
   title: Des heiligen Ephraem des Syrers Hymnen contra haereses
   type: book
 
+- id: evansArmeniaArtReligion2018
+  accessed:
+    - year: 2021
+      month: 1
+      day: 7
+  citation-key: evansArmeniaArtReligion2018
+  editor:
+    - family: Evans
+      given: Helen C.
+  event-place: New York, New York
+  ISBN: 978-1-58839-660-0
+  issued:
+    - year: 2018
+  language: English
+  number-of-pages: '351'
+  publisher: The Metropolitan Museum of Art
+  publisher-place: New York, New York
+  section: '351 pages : illustrations (chiefly color), maps, portraits ; 29 cm'
+  source: WorldCat Discovery Service
+  title: 'Armenia: Art, Religion, and Trade in the Middle Ages'
+  title-short: Armenia
+  type: book
+  URL: https://www.google.de/books/edition/Armenia/ezNtDwAAQBAJ
+
+- id: evansArmeniansTheirMiddle2018
+  accessed:
+    - year: 2021
+      month: 1
+      day: 7
+  author:
+    - family: Evans
+      given: Helen C.
+  citation-key: evansArmeniansTheirMiddle2018
+  container-title: 'Armenia: Art, Religion, and Trade in the Middle Ages'
+  editor:
+    - family: Evans
+      given: Helen C.
+  event-place: New York, New York
+  ISBN: 978-1-58839-660-0
+  issued:
+    - year: 2018
+  language: English
+  page: 29-39
+  publisher: The Metropolitan Museum of Art
+  publisher-place: New York, New York
+  section: '351 pages : illustrations (chiefly color), maps, portraits ; 29 cm'
+  source: WorldCat Discovery Service
+  title: Armenians and their Middle Age
+  type: chapter
+  URL: >-
+    https://www.google.de/books/edition/Armenia/ezNtDwAAQBAJ?hl=de&gbpv=1&pg=PA29&printsec=frontcover
+
 - id: fergusonEncyclopediaEarlyChristianity2013
   author:
     - family: Ferguson
@@ -639,6 +691,31 @@ references:
   type: book
   URL: http://archive.org/details/secretsayingsofj0000gran
 
+- id: hacikyanHeritageArmenianLiterature2000
+  author:
+    - family: Hacikyan
+      given: A. J. (Agop Jack)
+      suffix: 1931-
+    - family: Basmajian
+      given: Gabriel.
+    - family: Franchuk
+      given: Edward S.
+    - family: Ouzounian
+      given: Nourhan.
+  citation-key: hacikyanHeritageArmenianLiterature2000
+  event-place: Detroit
+  ISBN: 978-0-8143-2815-6 978-0-8143-3023-4 978-0-8143-3221-4
+  issued:
+    - year: 2000
+  language: English
+  publisher: Wayne State University Press
+  publisher-place: Detroit
+  section: 3 volumes ; 23 cm
+  source: WorldCat Discovery Service
+  title: The Heritage of Armenian Literature
+  type: book
+  URL: https://archive.org/details/heritageofarmeni00ajha
+
 - id: hartogOrthodoxyHeresyEarly2015
   abstract: >-
     Eighty years ago, Walter Bauer promulgated a bold and provocative thesis
@@ -727,6 +804,24 @@ references:
   URL: >-
     https://muse-jhu-edu.proxy.ub.uni-frankfurt.de/pub/200/edited_volume/book/48420/pdf
 
+- id: hofmannAnnaherungArmenienGeschichte2006
+  author:
+    - family: Hofmann
+      given: Tessa
+  citation-key: hofmannAnnaherungArmenienGeschichte2006
+  edition: Orig.-Ausg., 2., aktualisierte und erg. Aufl.
+  event-place: München
+  ISBN: 978-3-406-54136-0
+  issued:
+    - year: 2006
+  number-of-pages: 278 S.
+  publisher: Beck
+  publisher-place: München
+  source: COinS
+  title: 'Annäherung an Armenien : Geschichte und Gegenwart'
+  title-short: Annäherung an Armenien
+  type: book
+
 - id: hovannisianArmenianPeopleAncient
   citation-key: hovannisianArmenianPeopleAncient
   editor:
@@ -738,6 +833,28 @@ references:
   publisher-place: New York, NY
   source: COinS
   title: The Armenian people from ancient to modern times
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB128249137
+
+- id: hovannisianArmenianPeopleAncient1997
+  accessed:
+    - year: 2021
+      month: 1
+      day: 7
+  author:
+    - family: Hovannisian
+      given: Richard G.
+  citation-key: hovannisianArmenianPeopleAncient1997
+  event-place: New York
+  ISBN: 978-0-312-10168-8 978-0-312-10169-5
+  issued:
+    - year: 1997
+  language: English
+  publisher: St. Martin's Press
+  publisher-place: New York
+  section: '2 volumes : maps ; 22 cm'
+  source: WorldCat Discovery Service
+  title: The Armenian People from Ancient to Modern Times
   type: book
   URL: https://ubffm.hds.hebis.de/Record/HEB128249137
 
@@ -864,6 +981,24 @@ references:
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D652874
 
+- id: kantianArmenienGeschichteUnd1998
+  citation-key: kantianArmenienGeschichteUnd1998
+  editor:
+    - family: Kantian
+      given: Raffi
+  event-place: Frankfurt am Main
+  ISBN: 978-3-9802408-3-3
+  issued:
+    - year: 1998
+  number-of-pages: 289 Seiten
+  publisher: Dt.-Armen. Ges.
+  publisher-place: Frankfurt am Main
+  source: COinS
+  title: 'Armenien : Geschichte und Gegenwart in schwierigem Umfeld'
+  title-short: Armenien
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB054977401
+
 - id: kasserLanguagesCoptic1991
   accessed:
     - year: 2025
@@ -932,6 +1067,16 @@ references:
   type: book
   URL: https://gedsh.bethmardutho.org
 
+- id: KrikorClaraZohrab
+  accessed:
+    - year: 2025
+      month: 6
+      day: 24
+  citation-key: KrikorClaraZohrab
+  title: Krikor and Clara Zohrab Information Center Online Catalogue
+  type: webpage
+  URL: https://dac.bibliovation.com/
+
 - id: langeAltorientalischenKirchenGlaube2011
   author:
     - family: Lange
@@ -971,6 +1116,26 @@ references:
   title-short: Christ the Lover of Mankind
   type: motion_picture
   URL: https://www.youtube.com/watch?v=nkY-BBjshJM
+
+- id: maranciArtArmeniaIntroduction2018
+  author:
+    - family: Maranci
+      given: Christina
+  citation-key: maranciArtArmeniaIntroduction2018
+  event-place: New York, NY
+  ISBN: 978-0-19-026900-5
+  issued:
+    - year: 2018
+  language: English
+  number-of-pages: xiii, 252
+  publisher: Oxford University Press
+  publisher-place: New York, NY
+  section: 'xiii, 252 pages : illustrations (some color), maps ; 24 cm'
+  source: WorldCat Discovery Service
+  title: 'The Art of Armenia: An introduction'
+  title-short: The art of Armenia
+  type: book
+  URL: https://books.google.de/books?id=0sDVugEACAAJ
 
 - id: mayMarcionUndSeine2013
   abstract: >-
@@ -1044,6 +1209,34 @@ references:
   type: book
   URL: >-
     https://www.google.com/books/edition/The_Encyclopedia_of_Eastern_Orthodox_Chr/JmFetR5Wqd8C?hl=en&gbpv=0
+
+- id: merianInventionArmenianAlphabet2018
+  accessed:
+    - year: 2021
+      month: 1
+      day: 7
+  author:
+    - family: Merian
+      given: Sylvie L.
+  citation-key: merianInventionArmenianAlphabet2018
+  container-title: 'Armenia: Art, Religion, and Trade in the Middle Ages'
+  editor:
+    - family: Evans
+      given: Helen C.
+  event-place: New York, New York
+  ISBN: 978-1-58839-660-0
+  issued:
+    - year: 2018
+  language: English
+  page: '42'
+  publisher: The Metropolitan Museum of Art
+  publisher-place: New York, New York
+  section: '351 pages : illustrations (chiefly color), maps, portraits ; 29 cm'
+  source: WorldCat Discovery Service
+  title: The invention of the Armenian alphabet
+  type: chapter
+  URL: >-
+    https://www.google.de/books/edition/Armenia/ezNtDwAAQBAJ?hl=de&gbpv=1&pg=PA42&printsec=frontcover
 
 - id: mertenAethiopischorthodoxeChristentumVersuch2012
   author:
@@ -1213,6 +1406,46 @@ references:
   title: 'La Chiesa Armena: storia, spiritualità e istituzioni'
   title-short: La Chiesa Armena
   type: book
+
+- id: papazianLightLightIntroduction2006
+  author:
+    - family: Papazian
+      given: Michael
+  citation-key: papazianLightLightIntroduction2006
+  event-place: New York, N.Y.
+  issued:
+    - year: 2006
+  language: English
+  number-of-pages: '200'
+  publisher: SIS Publications
+  publisher-place: New York, N.Y.
+  section: >-
+    200 pages, [16] pages of color plates : color illustrations, portraits ; 23
+    cm
+  source: WorldCat Discovery Service
+  title: >-
+    Light from Light: An Introduction to the History and Theology of the
+    Armenian Church
+  title-short: Light from light
+  type: book
+
+- id: plattArmenien5000Jahre1995
+  author:
+    - family: Platt
+      given: Kristin (Herausgeber)
+  citation-key: plattArmenien5000Jahre1995
+  event-place: Tübingen
+  ISBN: 978-3-8030-3066-5
+  issued:
+    - year: 1995
+  number-of-pages: 472 Seiten
+  publisher: Wasmuth
+  publisher-place: Tübingen
+  source: COinS
+  title: 'Armenien : 5000 Jahre Kunst und Kultur'
+  title-short: Armenien
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB046329579
 
 - id: plattChurchEastThree2017
   abstract: >-
@@ -1599,6 +1832,26 @@ references:
   type: chapter
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/23903600653/CourseNode/93668888136198/06+-+Tamcke+-+2008+-+Der+Islam+und+das+Christentum.pdf
+
+- id: thierryArmenienImMittelalter2002
+  author:
+    - family: Thierry
+      given: Jean-Michel
+    - family: Goltz
+      given: Hermann (Übersetzer)
+  citation-key: thierryArmenienImMittelalter2002
+  edition: 1. dt. Auflage
+  event-place: Regensburg
+  ISBN: 978-3-7954-1435-1
+  issued:
+    - year: 2002
+  number-of-pages: 362 Seiten
+  publisher: Schnell und Steiner
+  publisher-place: Regensburg
+  source: COinS
+  title: Armenien im Mittelalter
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB101864051
 
 - id: thomsonBibliographyClassicalArmenian1995
   author:
