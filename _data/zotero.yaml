@@ -716,6 +716,23 @@ references:
   type: book
   URL: https://archive.org/details/heritageofarmeni00ajha
 
+- id: hageOrientalischeChristentum2007
+  author:
+    - family: Hage
+      given: Wolfgang
+  citation-key: hageOrientalischeChristentum2007
+  event-place: Stuttgart
+  ISBN: 978-3-17-017668-3
+  issued:
+    - year: 2007
+  number-of-pages: 545 S.
+  publisher: Kohlhammer
+  publisher-place: Stuttgart
+  source: COinS
+  title: Das orientalische Christentum
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB190823437
+
 - id: hartogOrthodoxyHeresyEarly2015
   abstract: >-
     Eighty years ago, Walter Bauer promulgated a bold and provocative thesis
@@ -882,6 +899,28 @@ references:
   URL: >-
     https://www.google.de/books/edition/The_Rise_of_Normative_Christianity/kf7YAAAAMAAJ
 
+- id: hutterKaukasusBergSprachen2025
+  author:
+    - family: Hutter
+      given: Manfred
+  citation-key: hutterKaukasusBergSprachen2025
+  container-title: Religionen im Kaukasus
+  editor:
+    - family: Hutter
+      given: Manfred
+  ISBN: 978-3-17-042497-5
+  issued:
+    - year: 2025
+      month: 2
+      day: 5
+  language: de
+  page: 9-18
+  publisher: Kohlhammer Verlag
+  source: Google Books
+  title: Der Kaukasus - Berg der Sprachen, der Völker sowie der Religionen
+  type: chapter
+  URL: https://books.google.de/books?id=afZDEQAAQBAJ
+
 - id: hutterReligionenImKaukasus2025
   abstract: >-
     Die Kaukasus-Region zeichnet sich durch eine hohe Vielfalt sprachlicher,
@@ -910,7 +949,8 @@ references:
   source: Google Books
   title: Religionen im Kaukasus
   type: book
-  URL: https://books.google.de/books?id=afZDEQAAQBAJ
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Felibrary.kohlhammer.de%2Fbook%2F10.17433%2F978-3-17-042497-5
 
 - id: illertDoctrinaAddai2007
   abstract: >-
@@ -1432,7 +1472,7 @@ references:
 - id: plattArmenien5000Jahre1995
   author:
     - family: Platt
-      given: Kristin (Herausgeber)
+      given: Kristin
   citation-key: plattArmenien5000Jahre1995
   event-place: Tübingen
   ISBN: 978-3-8030-3066-5
