@@ -1744,6 +1744,40 @@ references:
   type: motion_picture
   URL: https://www.youtube.com/watch?v=FZPBessoaJk
 
+- id: stopkaArmeniaChristianaArmenian2016
+  abstract: >-
+    This book presents the dramatic and convoluted story of Armenia's
+    ecclesiastical relations with Byzantine and subsequently Roman Christendom
+    in the Middle Ages. It is built up on a broad foundation of sources -
+    Armenian, Greek, Latin, and Syrian chronicles and documents, especially the
+    abundant correspondence between the Holy See and the Armenian Church, which
+    has been published by the Pontifical Commission for the Redaction of the
+    Code of Oriental Canon Law (Pontificia Commissio ad redigendum Codicem iuris
+    canonici orientalis). Krzysztof Stopka examines problems straggling the
+    disciplines of history and theology and pertinent to a signal, though not
+    widely enough known  episode in the story of the struggle for Christian
+    unity.
+  accessed:
+    - year: 2025
+      month: 6
+      day: 30
+  author:
+    - family: Stopka
+      given: Krzysztof
+  citation-key: stopkaArmeniaChristianaArmenian2016
+  ISBN: 978-83-233-9555-3
+  issued:
+    - year: 2016
+  publisher: Jagiellonian University Press
+  source: Cambridge University Press
+  title: >-
+    Armenia Christiana: Armenian Religious Identity and the Churches of
+    Constantinople and Rome (4th–15th Century)
+  title-short: Armenia Christiana
+  type: book
+  URL: >-
+    https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/books/armenia-christiana/B3E182C8F01EB30512FD5B7A9F2B63E4
+
 - id: studyofreligionatsmuGlobalRootsChristian2024
   accessed:
     - year: 2025
