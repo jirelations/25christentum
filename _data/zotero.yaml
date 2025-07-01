@@ -355,6 +355,17 @@ references:
   title-short: Christlicher Orient im Porträt
   type: book
 
+- id: ComprehensiveBibliographySyriac
+  accessed:
+    - year: 2025
+      month: 6
+      day: 30
+  citation-key: ComprehensiveBibliographySyriac
+  title: A Comprehensive Bibliography on Syriac Christianity | Zotero
+  type: webpage
+  URL: >-
+    https://www.zotero.org/groups/4545590/a_comprehensive_bibliography_on_syriac_christianity/library
+
 - id: deutschebibelgesellschaftApostelgeschichte12Lutherbibel2017
   accessed:
     - year: 2025
