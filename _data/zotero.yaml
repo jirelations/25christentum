@@ -330,6 +330,23 @@ references:
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/23903600653/CourseNode/93668888136198/07+-+Baum+and+Winkler+-+2000+-+Zeitalter+der+Araber.pdf
 
+- id: bergerNeueTestamentUnd2005
+  author:
+    - family: Berger
+      given: Klaus (Übersetzer)
+  citation-key: bergerNeueTestamentUnd2005
+  edition: 1. Auflage, [Nachdruck]
+  event-place: Frankfurt am Main
+  ISBN: 978-3-458-17249-9
+  issued:
+    - year: 2005
+  number-of-pages: 1413 Seiten
+  publisher: Insel-Verlag
+  publisher-place: Frankfurt am Main
+  source: COinS
+  title: Das neue Testament und frühchristliche Schriften
+  type: book
+
 - id: bukovecChristlicherOrientIm2014
   call-number: DS61.7.A1 T34 2010
   citation-key: bukovecChristlicherOrientIm2014
@@ -1084,6 +1101,27 @@ references:
   type: chapter
   URL: https://ccdl.claremont.edu/digital/collection/cce/id/2025/rec/24
 
+- id: khellaKoptischeLiturgieEmporhebung1989
+  author:
+    - family: Khella
+      given: Karam
+  citation-key: khellaKoptischeLiturgieEmporhebung1989
+  edition: 1. Aufl.
+  event-place: Hamburg
+  ISBN: 978-3-921866-23-8
+  issued:
+    - year: 1989
+  number-of-pages: 205 S.
+  publisher: Theorie-u.-Praxis-Verl.
+  publisher-place: Hamburg
+  source: COinS
+  title: >-
+    Die koptische Liturgie : Emporhebung des Abendweihrauches ;
+    Inzens-Frühgottesdienst ; Eucharistische Messfeier
+  title-short: Die koptische Liturgie
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB006671853
+
 - id: kirazGorgiasEncyclopedicDictionary2011
   accessed:
     - year: 2025
@@ -1146,6 +1184,58 @@ references:
   title-short: Die altorientalischen Kirchen
   type: book
   URL: https://ubffm.hds.hebis.de/Record/HEB267024614
+
+- id: lentzAfrikanerFrankfurtMigration2003
+  abstract: >-
+    Im Rahmen einer Lehrforschung (1999/2000) haben sich Frankfurter
+    Ethnologiestudenten mit Migrationsstrategien, sozialen Netzwerken und
+    Identit�tspolitik von Afrikanern in Frankfurt besch�ftigt. Die einzelnen
+    Untersuchungsthemen reichten von Erfolgsbedingungen deutsch-afrikanischer
+    Ehen und den Zielen des Auslandsstudiums afrikanischer Studenten �ber die
+    �konomischen Strategien afrikanischer Restaurantbetreiber samt ihrer
+    kulturellen Selbstdarstellung bis hin zu den sozialen Kontakten von
+    Kenianerinnen und den Prozessen der Gemeinschaftsbildung eritreischer
+    Fl�chtlinge. Der Artikel gibt einen �berblick �ber Zahlen, Trends und
+    Hintergr�nde der afrikanischen Immigration in Hessen und Frankfurt,
+    diskutiert die Erfahrungen der Studierenden mit Mi�trauen und ?gatekeepers?
+    im Feld und stellt dann einige der Fallstudien vor, die einen Einblick in
+    die Unterschiedlichkeit der Biographien und Perspektiven afrikanischer
+    Migranten in Frankfurt erm�glichen. Lebenssituationen, Ziele und Strategien
+    der verschiedenen Migrantengruppen aus Afrika in Frankfurt sind zu
+    heterogen, so das Fazit der Lehrforschung, als da� sich ein ausgepr�gtes
+    Gemeinschaftsbewu�tsein ?als Afrikaner? entwickeln k�nnte. Zum einen
+    spiegelt die Organisationen die geopolitischen Untergliederungen des
+    Kontinents und oft auch noch die ethnischen Trennlinien im Herkunftsland.
+    Zum anderen sorgen auch die heterogenen Interessen der verschiedenen
+    Migrantengruppen hier, das soziale Gef�lle zwischen den Afrikanern,
+    Generationskonflikte und Konkurrenz um F�hrungspositionen f�r eine
+    zersplitterte Vereinslandschaft. ?Afrikanische Identit�t? entsteht nur als
+    gelegentlich mobilisierte Verteidigungsbastion gegen den allt�glichen
+    Rassismus, ist aber keine gelebte Alltagsrealit�t f�r die afrikanischen
+    Migranten selbst.
+  accessed:
+    - year: 2025
+      month: 7
+      day: 21
+  author:
+    - family: Lentz
+      given: Carola
+  citation-key: lentzAfrikanerFrankfurtMigration2003
+  container-title: Sociologus
+  ISSN: 0038-0377
+  issue: '1'
+  issued:
+    - year: 2003
+  page: 43-80
+  publisher: Duncker & Humblot GmbH
+  source: JSTOR
+  title: >-
+    Afrikaner in Frankfurt - Migration, Netzwerke, Identit�tspolitik: Ergebnisse
+    einer Lehrforschung
+  title-short: Afrikaner in Frankfurt - Migration, Netzwerke, Identit�tspolitik
+  type: article-journal
+  URL: https://www.jstor.org/stable/43645509
+  volume: '53'
 
 - id: lumenchristiinstituteChristLoverMankind2020
   accessed:
@@ -1993,6 +2083,26 @@ references:
   title: How To Learn from The Lives of The Saints | Dr. Jeanne-Nicole Saint-Laurent
   type: motion_picture
   URL: https://www.youtube.com/watch?v=dJeSvDJm2g8
+
+- id: vonnoltingGemeinschaftImExil2002
+  accessed:
+    - year: 2025
+      month: 7
+      day: 21
+  author:
+    - family: Nolting
+      given: Nina
+      non-dropping-particle: von
+  citation-key: vonnoltingGemeinschaftImExil2002
+  issued:
+    - year: 2002
+  publisher: Inst. für Ethnologie und Afrikastudien
+  source: Google Scholar
+  title: 'Gemeinschaft im Exil: Eritreische Flüchtlinge in Frankfurt am Main'
+  title-short: Gemeinschaft im Exil
+  type: book
+  URL: >-
+    http://openscience.ub.uni-mainz.de/bitstreams/1e385c57-44c7-4f8f-88d1-76934ff8fbc9/download
 
 - id: waltersDoctrinaAddai2021
   author:
